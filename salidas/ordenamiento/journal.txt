@@ -21,7 +21,6 @@
 2024 16th International Conference on Intelligent Human-Machine Systems and Cybernetics (IHMSC)
 2024 16th International Conference on Intelligent Human-Machine Systems and Cybernetics (IHMSC)
 2024 17th International Symposium on Computational Intelligence and Design (ISCID)
-2024 17th International Symposium on Computational Intelligence and Design (ISCID)
 2024 1st International Conference on Advances in Computing, Communication and Networking (ICAC2N)
 2024 23rd International Symposium INFOTEH-JAHORINA (INFOTEH)
 2024 28th International Conference Information Visualisation (IV)
@@ -30,7 +29,6 @@
 2024 2nd International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS)
 2024 2nd World Conference on Communication \& Computing (WCONF)
 2024 36th International Conference on Software Engineering Education and Training (CSEE\&T)
-2024 3rd International Conference on Artificial Intelligence and Software Engineering (ICAISE)
 2024 3rd International Conference on Creative Communication and Innovative Technology (ICCIT)
 2024 3rd International Conference on Image Processing and Media Computing (ICIPMC)
 2024 47th MIPRO ICT and Electronics Convention (MIPRO)
@@ -46,7 +44,6 @@
 2024 5th International Conference on Artificial Intelligence and Computer Engineering (ICAICE)
 2024 5th International Conference on Industrial Engineering and Artificial Intelligence (IEAI)
 2024 5th International Conference on Intelligent Communication Technologies and Virtual Mobile Networks (ICICV)
-2024 5th International Conference on Intelligent Design (ICID)
 2024 5th International Conference on Intelligent Design (ICID)
 2024 7th International Conference on Internet Applications, Protocols, and Services (NETAPPS)
 2024 9th International Conference on Computer Science and Engineering (UBMK)
@@ -68,12 +65,9 @@
 2024 IEEE 7th International Conference and Workshop Óbuda on Electrical and Power Engineering (CANDO-EPE)
 2024 IEEE 8th Conference on Energy Internet and Energy System Integration (EI2)
 2024 IEEE 8th Conference on Energy Internet and Energy System Integration (EI2)
-2024 IEEE 8th International Conference on Vision, Image and Signal Processing (ICVISP)
-2024 IEEE 9th International Conference for Convergence in Technology (I2CT)
 2024 IEEE Digital Education and MOOCS Conference (DEMOcon)
 2024 IEEE Frontiers in Education Conference (FIE)
 2024 IEEE Frontiers in Education Conference (FIE)
-2024 IEEE Global Engineering Education Conference (EDUCON)
 2024 IEEE Global Engineering Education Conference (EDUCON)
 2024 IEEE Global Engineering Education Conference (EDUCON)
 2024 IEEE International Conference on Artificial Intelligence Testing (AITest)
@@ -88,7 +82,6 @@
 2024 IEEE SmartBlock4Africa
 2024 IEEE World Engineering Education Conference (EDUNINE)
 2024 IEEE World Engineering Education Conference (EDUNINE)
-2024 IEEE/ACIS 22nd International Conference on Software Engineering Research, Management and Applications (SERA)
 2024 IEEE/ACM 46th International Conference on Software Engineering (ICSE)
 2024 IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT)
 2024 International Automatic Control Conference (CACS)
@@ -97,14 +90,12 @@
 2024 International Conference on Artificial Intelligence, Big Data, Computing and Data Communication Systems (icABCD)
 2024 International Conference on Artificial Intelligence, Deep Learning and Neural Networks (AIDLNN)
 2024 International Conference on Computational Intelligence for Green and Sustainable Technologies (ICCIGST)
-2024 International Conference on Computers, Information Processing and Advanced Education (CIPAE)
 2024 International Conference on Computing and Data Science (ICCDS)
 2024 International Conference on Decision Aid Sciences and Applications (DASA)
 2024 International Conference on Decision Aid Sciences and Applications (DASA)
 2024 International Conference on Decision Aid Sciences and Applications (DASA)
 2024 International Conference on Emerging Technologies and Innovation for Sustainability (EmergIN)
 2024 International Conference on Engineering \& Computing Technologies (ICECT)
-2024 International Conference on Graphics and Interaction (ICGI)
 2024 International Conference on ICT for Smart Society (ICISS)
 2024 International Conference on Informatics Education and Computer Technology Applications (IECA)
 2024 International Conference on Informatics, Multimedia, Cyber and Information System (ICIMCIS)
@@ -114,7 +105,6 @@
 2024 International Conference on Sustainable Energy: Energy Transition and Net-Zero Climate Future (ICUE)
 2024 International Symposium on Educational Technology (ISET)
 2024 International Symposium on Networks, Computers and Communications (ISNCC)
-2024 Ninth International Conference on Informatics and Computing (ICIC)
 2024 Portland International Conference on Management of Engineering and Technology (PICMET)
 2024 Research, Invention, and Innovation Congress: Innovative Electricals and Electronics (RI2C)
 2024 Tenth International Conference on eDemocracy \& eGovernment (ICEDEG)
@@ -134,8 +124,20 @@
 2025 2nd International Conference on Informatics Education and Computer Technology Applications (IECA)
 2025 37th Conference of Open Innovations Association (FRUCT)
 2025 3rd International Conference on Data Science and Information System (ICDSIS)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
 2025 5th International Conference on Innovative Research in Applied Science, Engineering and Technology (IRASET)
-2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
 2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
 2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
 2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
@@ -164,48 +166,57 @@
 2025 IEEE International Conference on Engineering, Technology, and Innovation (ICE/ITMC)
 2025 International Conference on Computational, Communication and Information Technology (ICCCIT)
 2025 International Conference on Intelligent Computing and Control Systems (ICICCS)
-2025 International Conference on Pervasive Computational Technologies (ICPCT)
 2025 International Conference on Smart Computing, IoT and Machine Learning (SIML)
 2025 International Conference on Smart Learning Courses (SCME)
 2025 International Symposium on Educational Technology (ISET)
 2025 International Symposium on Educational Technology (ISET)
 2025 International Symposium on Educational Technology (ISET)
 2025 International Symposium on Educational Technology (ISET)
-2025 International Symposium on Educational Technology (ISET)
-2025 Joint Urban Remote Sensing Event (JURSE)
 2025 MIPRO 48th ICT and Electronics Convention
 2025 MIPRO 48th ICT and Electronics Convention
 2025 Seventh International Symposium on Computer, Consumer and Control (IS3C)
 2nd International Conference on Mechatronic Automation and Electrical Engineering (ICMAEE 2024)
 9th International Conference on New Energy and Future Energy Systems (NEFES 2024)
-CMES - Computer Modeling in Engineering and Sciences
-Communications in Transportation Research
+Acta Physico-Chimica Sinica
+Acta Psychologica
+Ain Shams Engineering Journal
+Annals of Tourism Research
+Applied Soft Computing
+Aquacultural Engineering
+Arthroscopy: The Journal of Arthroscopic \& Related Surgery
+Asia-Pacific Journal of Ophthalmology
+Asian Journal of Psychiatry
+Brazilian Journal of Otorhinolaryngology
+Chinese Journal of Aeronautics
+Clinical Simulation in Nursing
+Clinical Simulation in Nursing
+Clinical Simulation in Nursing
 Computer
+Computer Methods in Applied Mechanics and Engineering
 Computers \& Education
 Computers \& Education
-Computers \& Education
-Computers \& Education
-Computers \& Education
-Computers \& Education
-Computers \& Education
-Computers \& Education: X Reality
+Computers and Education Open
 Computers and Education: Artificial Intelligence
 Computers and Education: Artificial Intelligence
 Computers and Education: Artificial Intelligence
 Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers in Human Behavior
+Computers and Electronics in Agriculture
+Computers in Human Behavior Reports
+Computers in Human Behavior Reports
 Computers in Human Behavior: Artificial Humans
-Decision Analytics Journal
-Educational Research Review
-Encyclopedia of Libraries, Librarianship, and Information Science (First Edition)
-Encyclopedia of Libraries, Librarianship, and Information Science (First Edition)
-Entertainment Computing
+Current Opinion in Psychology
+Decision Support Systems
+Dentistry Review
+Dermatologic Clinics
+Development and Learning in Organizations: An International Journal
+Digestive and Liver Disease
+Displays
+Electronic Commerce Research and Applications
+Energy and AI
+Engineering Applications of Artificial Intelligence
+Epilepsy \& Behavior
+Foresight
+Gastroenterology
 Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
 Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
 Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
@@ -253,6 +264,7 @@ IEEE Engineering Management Review
 IEEE Engineering Management Review
 IEEE Engineering Management Review
 IEEE Geoscience and Remote Sensing Letters
+IEEE INFOCOM 2025 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)
 IEEE Industrial Electronics Magazine
 IEEE Intelligent Systems
 IEEE Internet Computing
@@ -262,7 +274,6 @@ IEEE Internet of Things Journal
 IEEE Internet of Things Journal
 IEEE Internet of Things Journal
 IEEE Internet of Things Magazine
-IEEE Journal of Biomedical and Health Informatics
 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 IEEE Journal on Selected Areas in Communications
@@ -288,7 +299,6 @@ IEEE Transactions on Learning Technologies
 IEEE Vehicular Technology Magazine
 IEEE Vehicular Technology Magazine
 IEEE Vehicular Technology Magazine
-IFAC-PapersOnLine
 IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium
 IT Professional
 IT Professional
@@ -297,29 +307,73 @@ IT Professional
 IT Professional
 IT Professional
 IT Professional
+Information Technology \& People
+Information and Learning Sciences
 Inside Cyber: How AI, 5G, IoT, and Quantum Computing Will Transform Privacy and Our Security
-International Journal of Child-Computer Interaction
-International Journal of Educational Research
-International Journal of Online Pedagogy and Course Design
+Integrative Medicine Research
+Integrative Medicine Research
+International Journal of Hospitality Management
+International Journal of Hospitality Management
+International Journal of Knowledge Management
+International Journal of Nursing Sciences
+International Journal of Nursing Studies
+International Journal of Oral and Maxillofacial Surgery
+International Journal of Oral and Maxillofacial Surgery
+JACC: Advances
+JMIR Medical Education
+Journal of Accounting Education
+Journal of Adolescent Health
+Journal of Building Engineering
+Journal of Business Research
+Journal of Cleaner Production
+Journal of Innovation \& Knowledge
+Journal of Intelligent Construction
+Journal of Manufacturing Processes
+Journal of Professional Nursing
+Journal of Vascular Surgery
 Journal of Web Engineering
-Learning and Instruction
+Journal of the Society for Cardiovascular Angiography \& Interventions
+Labour Economics
+Learning and Motivation
+Mayo Clinic Proceedings: Digital Health
+Modern Pathology
 New Horizons in Artificial Intelligence in Libraries
 Nurse Education Today
-Nurse Education Today
+Nurse Education in Practice
+Practical Radiation Oncology
+Procedia CIRP
+Procedia Computer Science
+Procedia Computer Science
+Review of International Business and Strategy
 Securing Microsoft Azure OpenAI
-Social Sciences \& Humanities Open
-Social Sciences \& Humanities Open
-Social Sciences \& Humanities Open
+Sensors and Actuators A: Physical
+Soil Advances
 SoutheastCon 2024
+Surgery
 System
-Technovation
+System
+Teaching and Learning in Nursing
+Teaching and Teacher Education
+Teaching and Teacher Education
+Technology in Society
+Technology in Society
 Telematics and Informatics Reports
+The Innovation
 The International Journal of Management Education
-The Internet and Higher Education
-Thinking Skills and Creativity
-Thinking Skills and Creativity
-Thinking Skills and Creativity
-Thinking Skills and Creativity
+The Journal of Academic Librarianship
+The Journal of Academic Librarianship
+The Journal of Academic Librarianship
+The Lancet Digital Health
+Thermal Science and Engineering Progress
+Tourism Management
+Tourism Management Perspectives
+Value in Health
+Value in Health
+Value in Health
+World Patent Information
+World Patent Information
+iScience
+iScience
 
 # ordenamiento por combsort
 2023 12th Mediterranean Conference on Embedded Computing (MECO)
@@ -344,7 +398,6 @@ Thinking Skills and Creativity
 2024 16th International Conference on Intelligent Human-Machine Systems and Cybernetics (IHMSC)
 2024 16th International Conference on Intelligent Human-Machine Systems and Cybernetics (IHMSC)
 2024 17th International Symposium on Computational Intelligence and Design (ISCID)
-2024 17th International Symposium on Computational Intelligence and Design (ISCID)
 2024 1st International Conference on Advances in Computing, Communication and Networking (ICAC2N)
 2024 23rd International Symposium INFOTEH-JAHORINA (INFOTEH)
 2024 28th International Conference Information Visualisation (IV)
@@ -353,7 +406,6 @@ Thinking Skills and Creativity
 2024 2nd International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS)
 2024 2nd World Conference on Communication \& Computing (WCONF)
 2024 36th International Conference on Software Engineering Education and Training (CSEE\&T)
-2024 3rd International Conference on Artificial Intelligence and Software Engineering (ICAISE)
 2024 3rd International Conference on Creative Communication and Innovative Technology (ICCIT)
 2024 3rd International Conference on Image Processing and Media Computing (ICIPMC)
 2024 47th MIPRO ICT and Electronics Convention (MIPRO)
@@ -369,7 +421,6 @@ Thinking Skills and Creativity
 2024 5th International Conference on Artificial Intelligence and Computer Engineering (ICAICE)
 2024 5th International Conference on Industrial Engineering and Artificial Intelligence (IEAI)
 2024 5th International Conference on Intelligent Communication Technologies and Virtual Mobile Networks (ICICV)
-2024 5th International Conference on Intelligent Design (ICID)
 2024 5th International Conference on Intelligent Design (ICID)
 2024 7th International Conference on Internet Applications, Protocols, and Services (NETAPPS)
 2024 9th International Conference on Computer Science and Engineering (UBMK)
@@ -391,12 +442,9 @@ Thinking Skills and Creativity
 2024 IEEE 7th International Conference and Workshop Óbuda on Electrical and Power Engineering (CANDO-EPE)
 2024 IEEE 8th Conference on Energy Internet and Energy System Integration (EI2)
 2024 IEEE 8th Conference on Energy Internet and Energy System Integration (EI2)
-2024 IEEE 8th International Conference on Vision, Image and Signal Processing (ICVISP)
-2024 IEEE 9th International Conference for Convergence in Technology (I2CT)
 2024 IEEE Digital Education and MOOCS Conference (DEMOcon)
 2024 IEEE Frontiers in Education Conference (FIE)
 2024 IEEE Frontiers in Education Conference (FIE)
-2024 IEEE Global Engineering Education Conference (EDUCON)
 2024 IEEE Global Engineering Education Conference (EDUCON)
 2024 IEEE Global Engineering Education Conference (EDUCON)
 2024 IEEE International Conference on Artificial Intelligence Testing (AITest)
@@ -411,7 +459,6 @@ Thinking Skills and Creativity
 2024 IEEE SmartBlock4Africa
 2024 IEEE World Engineering Education Conference (EDUNINE)
 2024 IEEE World Engineering Education Conference (EDUNINE)
-2024 IEEE/ACIS 22nd International Conference on Software Engineering Research, Management and Applications (SERA)
 2024 IEEE/ACM 46th International Conference on Software Engineering (ICSE)
 2024 IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT)
 2024 International Automatic Control Conference (CACS)
@@ -420,14 +467,12 @@ Thinking Skills and Creativity
 2024 International Conference on Artificial Intelligence, Big Data, Computing and Data Communication Systems (icABCD)
 2024 International Conference on Artificial Intelligence, Deep Learning and Neural Networks (AIDLNN)
 2024 International Conference on Computational Intelligence for Green and Sustainable Technologies (ICCIGST)
-2024 International Conference on Computers, Information Processing and Advanced Education (CIPAE)
 2024 International Conference on Computing and Data Science (ICCDS)
 2024 International Conference on Decision Aid Sciences and Applications (DASA)
 2024 International Conference on Decision Aid Sciences and Applications (DASA)
 2024 International Conference on Decision Aid Sciences and Applications (DASA)
 2024 International Conference on Emerging Technologies and Innovation for Sustainability (EmergIN)
 2024 International Conference on Engineering \& Computing Technologies (ICECT)
-2024 International Conference on Graphics and Interaction (ICGI)
 2024 International Conference on ICT for Smart Society (ICISS)
 2024 International Conference on Informatics Education and Computer Technology Applications (IECA)
 2024 International Conference on Informatics, Multimedia, Cyber and Information System (ICIMCIS)
@@ -437,7 +482,6 @@ Thinking Skills and Creativity
 2024 International Conference on Sustainable Energy: Energy Transition and Net-Zero Climate Future (ICUE)
 2024 International Symposium on Educational Technology (ISET)
 2024 International Symposium on Networks, Computers and Communications (ISNCC)
-2024 Ninth International Conference on Informatics and Computing (ICIC)
 2024 Portland International Conference on Management of Engineering and Technology (PICMET)
 2024 Research, Invention, and Innovation Congress: Innovative Electricals and Electronics (RI2C)
 2024 Tenth International Conference on eDemocracy \& eGovernment (ICEDEG)
@@ -457,8 +501,20 @@ Thinking Skills and Creativity
 2025 2nd International Conference on Informatics Education and Computer Technology Applications (IECA)
 2025 37th Conference of Open Innovations Association (FRUCT)
 2025 3rd International Conference on Data Science and Information System (ICDSIS)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
 2025 5th International Conference on Innovative Research in Applied Science, Engineering and Technology (IRASET)
-2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
 2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
 2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
 2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
@@ -487,48 +543,57 @@ Thinking Skills and Creativity
 2025 IEEE International Conference on Engineering, Technology, and Innovation (ICE/ITMC)
 2025 International Conference on Computational, Communication and Information Technology (ICCCIT)
 2025 International Conference on Intelligent Computing and Control Systems (ICICCS)
-2025 International Conference on Pervasive Computational Technologies (ICPCT)
 2025 International Conference on Smart Computing, IoT and Machine Learning (SIML)
 2025 International Conference on Smart Learning Courses (SCME)
 2025 International Symposium on Educational Technology (ISET)
 2025 International Symposium on Educational Technology (ISET)
 2025 International Symposium on Educational Technology (ISET)
 2025 International Symposium on Educational Technology (ISET)
-2025 International Symposium on Educational Technology (ISET)
-2025 Joint Urban Remote Sensing Event (JURSE)
 2025 MIPRO 48th ICT and Electronics Convention
 2025 MIPRO 48th ICT and Electronics Convention
 2025 Seventh International Symposium on Computer, Consumer and Control (IS3C)
 2nd International Conference on Mechatronic Automation and Electrical Engineering (ICMAEE 2024)
 9th International Conference on New Energy and Future Energy Systems (NEFES 2024)
-CMES - Computer Modeling in Engineering and Sciences
-Communications in Transportation Research
+Acta Physico-Chimica Sinica
+Acta Psychologica
+Ain Shams Engineering Journal
+Annals of Tourism Research
+Applied Soft Computing
+Aquacultural Engineering
+Arthroscopy: The Journal of Arthroscopic \& Related Surgery
+Asia-Pacific Journal of Ophthalmology
+Asian Journal of Psychiatry
+Brazilian Journal of Otorhinolaryngology
+Chinese Journal of Aeronautics
+Clinical Simulation in Nursing
+Clinical Simulation in Nursing
+Clinical Simulation in Nursing
 Computer
+Computer Methods in Applied Mechanics and Engineering
 Computers \& Education
 Computers \& Education
-Computers \& Education
-Computers \& Education
-Computers \& Education
-Computers \& Education
-Computers \& Education
-Computers \& Education: X Reality
+Computers and Education Open
 Computers and Education: Artificial Intelligence
 Computers and Education: Artificial Intelligence
 Computers and Education: Artificial Intelligence
 Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers in Human Behavior
+Computers and Electronics in Agriculture
+Computers in Human Behavior Reports
+Computers in Human Behavior Reports
 Computers in Human Behavior: Artificial Humans
-Decision Analytics Journal
-Educational Research Review
-Encyclopedia of Libraries, Librarianship, and Information Science (First Edition)
-Encyclopedia of Libraries, Librarianship, and Information Science (First Edition)
-Entertainment Computing
+Current Opinion in Psychology
+Decision Support Systems
+Dentistry Review
+Dermatologic Clinics
+Development and Learning in Organizations: An International Journal
+Digestive and Liver Disease
+Displays
+Electronic Commerce Research and Applications
+Energy and AI
+Engineering Applications of Artificial Intelligence
+Epilepsy \& Behavior
+Foresight
+Gastroenterology
 Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
 Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
 Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
@@ -576,6 +641,7 @@ IEEE Engineering Management Review
 IEEE Engineering Management Review
 IEEE Engineering Management Review
 IEEE Geoscience and Remote Sensing Letters
+IEEE INFOCOM 2025 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)
 IEEE Industrial Electronics Magazine
 IEEE Intelligent Systems
 IEEE Internet Computing
@@ -585,7 +651,6 @@ IEEE Internet of Things Journal
 IEEE Internet of Things Journal
 IEEE Internet of Things Journal
 IEEE Internet of Things Magazine
-IEEE Journal of Biomedical and Health Informatics
 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 IEEE Journal on Selected Areas in Communications
@@ -611,7 +676,6 @@ IEEE Transactions on Learning Technologies
 IEEE Vehicular Technology Magazine
 IEEE Vehicular Technology Magazine
 IEEE Vehicular Technology Magazine
-IFAC-PapersOnLine
 IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium
 IT Professional
 IT Professional
@@ -620,29 +684,73 @@ IT Professional
 IT Professional
 IT Professional
 IT Professional
+Information Technology \& People
+Information and Learning Sciences
 Inside Cyber: How AI, 5G, IoT, and Quantum Computing Will Transform Privacy and Our Security
-International Journal of Child-Computer Interaction
-International Journal of Educational Research
-International Journal of Online Pedagogy and Course Design
+Integrative Medicine Research
+Integrative Medicine Research
+International Journal of Hospitality Management
+International Journal of Hospitality Management
+International Journal of Knowledge Management
+International Journal of Nursing Sciences
+International Journal of Nursing Studies
+International Journal of Oral and Maxillofacial Surgery
+International Journal of Oral and Maxillofacial Surgery
+JACC: Advances
+JMIR Medical Education
+Journal of Accounting Education
+Journal of Adolescent Health
+Journal of Building Engineering
+Journal of Business Research
+Journal of Cleaner Production
+Journal of Innovation \& Knowledge
+Journal of Intelligent Construction
+Journal of Manufacturing Processes
+Journal of Professional Nursing
+Journal of Vascular Surgery
 Journal of Web Engineering
-Learning and Instruction
+Journal of the Society for Cardiovascular Angiography \& Interventions
+Labour Economics
+Learning and Motivation
+Mayo Clinic Proceedings: Digital Health
+Modern Pathology
 New Horizons in Artificial Intelligence in Libraries
 Nurse Education Today
-Nurse Education Today
+Nurse Education in Practice
+Practical Radiation Oncology
+Procedia CIRP
+Procedia Computer Science
+Procedia Computer Science
+Review of International Business and Strategy
 Securing Microsoft Azure OpenAI
-Social Sciences \& Humanities Open
-Social Sciences \& Humanities Open
-Social Sciences \& Humanities Open
+Sensors and Actuators A: Physical
+Soil Advances
 SoutheastCon 2024
+Surgery
 System
-Technovation
+System
+Teaching and Learning in Nursing
+Teaching and Teacher Education
+Teaching and Teacher Education
+Technology in Society
+Technology in Society
 Telematics and Informatics Reports
+The Innovation
 The International Journal of Management Education
-The Internet and Higher Education
-Thinking Skills and Creativity
-Thinking Skills and Creativity
-Thinking Skills and Creativity
-Thinking Skills and Creativity
+The Journal of Academic Librarianship
+The Journal of Academic Librarianship
+The Journal of Academic Librarianship
+The Lancet Digital Health
+Thermal Science and Engineering Progress
+Tourism Management
+Tourism Management Perspectives
+Value in Health
+Value in Health
+Value in Health
+World Patent Information
+World Patent Information
+iScience
+iScience
 
 # ordenamiento por selectionsort
 2023 12th Mediterranean Conference on Embedded Computing (MECO)
@@ -667,7 +775,6 @@ Thinking Skills and Creativity
 2024 16th International Conference on Intelligent Human-Machine Systems and Cybernetics (IHMSC)
 2024 16th International Conference on Intelligent Human-Machine Systems and Cybernetics (IHMSC)
 2024 17th International Symposium on Computational Intelligence and Design (ISCID)
-2024 17th International Symposium on Computational Intelligence and Design (ISCID)
 2024 1st International Conference on Advances in Computing, Communication and Networking (ICAC2N)
 2024 23rd International Symposium INFOTEH-JAHORINA (INFOTEH)
 2024 28th International Conference Information Visualisation (IV)
@@ -676,7 +783,6 @@ Thinking Skills and Creativity
 2024 2nd International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS)
 2024 2nd World Conference on Communication \& Computing (WCONF)
 2024 36th International Conference on Software Engineering Education and Training (CSEE\&T)
-2024 3rd International Conference on Artificial Intelligence and Software Engineering (ICAISE)
 2024 3rd International Conference on Creative Communication and Innovative Technology (ICCIT)
 2024 3rd International Conference on Image Processing and Media Computing (ICIPMC)
 2024 47th MIPRO ICT and Electronics Convention (MIPRO)
@@ -692,7 +798,6 @@ Thinking Skills and Creativity
 2024 5th International Conference on Artificial Intelligence and Computer Engineering (ICAICE)
 2024 5th International Conference on Industrial Engineering and Artificial Intelligence (IEAI)
 2024 5th International Conference on Intelligent Communication Technologies and Virtual Mobile Networks (ICICV)
-2024 5th International Conference on Intelligent Design (ICID)
 2024 5th International Conference on Intelligent Design (ICID)
 2024 7th International Conference on Internet Applications, Protocols, and Services (NETAPPS)
 2024 9th International Conference on Computer Science and Engineering (UBMK)
@@ -714,12 +819,9 @@ Thinking Skills and Creativity
 2024 IEEE 7th International Conference and Workshop Óbuda on Electrical and Power Engineering (CANDO-EPE)
 2024 IEEE 8th Conference on Energy Internet and Energy System Integration (EI2)
 2024 IEEE 8th Conference on Energy Internet and Energy System Integration (EI2)
-2024 IEEE 8th International Conference on Vision, Image and Signal Processing (ICVISP)
-2024 IEEE 9th International Conference for Convergence in Technology (I2CT)
 2024 IEEE Digital Education and MOOCS Conference (DEMOcon)
 2024 IEEE Frontiers in Education Conference (FIE)
 2024 IEEE Frontiers in Education Conference (FIE)
-2024 IEEE Global Engineering Education Conference (EDUCON)
 2024 IEEE Global Engineering Education Conference (EDUCON)
 2024 IEEE Global Engineering Education Conference (EDUCON)
 2024 IEEE International Conference on Artificial Intelligence Testing (AITest)
@@ -734,7 +836,6 @@ Thinking Skills and Creativity
 2024 IEEE SmartBlock4Africa
 2024 IEEE World Engineering Education Conference (EDUNINE)
 2024 IEEE World Engineering Education Conference (EDUNINE)
-2024 IEEE/ACIS 22nd International Conference on Software Engineering Research, Management and Applications (SERA)
 2024 IEEE/ACM 46th International Conference on Software Engineering (ICSE)
 2024 IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT)
 2024 International Automatic Control Conference (CACS)
@@ -743,14 +844,12 @@ Thinking Skills and Creativity
 2024 International Conference on Artificial Intelligence, Big Data, Computing and Data Communication Systems (icABCD)
 2024 International Conference on Artificial Intelligence, Deep Learning and Neural Networks (AIDLNN)
 2024 International Conference on Computational Intelligence for Green and Sustainable Technologies (ICCIGST)
-2024 International Conference on Computers, Information Processing and Advanced Education (CIPAE)
 2024 International Conference on Computing and Data Science (ICCDS)
 2024 International Conference on Decision Aid Sciences and Applications (DASA)
 2024 International Conference on Decision Aid Sciences and Applications (DASA)
 2024 International Conference on Decision Aid Sciences and Applications (DASA)
 2024 International Conference on Emerging Technologies and Innovation for Sustainability (EmergIN)
 2024 International Conference on Engineering \& Computing Technologies (ICECT)
-2024 International Conference on Graphics and Interaction (ICGI)
 2024 International Conference on ICT for Smart Society (ICISS)
 2024 International Conference on Informatics Education and Computer Technology Applications (IECA)
 2024 International Conference on Informatics, Multimedia, Cyber and Information System (ICIMCIS)
@@ -760,7 +859,6 @@ Thinking Skills and Creativity
 2024 International Conference on Sustainable Energy: Energy Transition and Net-Zero Climate Future (ICUE)
 2024 International Symposium on Educational Technology (ISET)
 2024 International Symposium on Networks, Computers and Communications (ISNCC)
-2024 Ninth International Conference on Informatics and Computing (ICIC)
 2024 Portland International Conference on Management of Engineering and Technology (PICMET)
 2024 Research, Invention, and Innovation Congress: Innovative Electricals and Electronics (RI2C)
 2024 Tenth International Conference on eDemocracy \& eGovernment (ICEDEG)
@@ -780,8 +878,20 @@ Thinking Skills and Creativity
 2025 2nd International Conference on Informatics Education and Computer Technology Applications (IECA)
 2025 37th Conference of Open Innovations Association (FRUCT)
 2025 3rd International Conference on Data Science and Information System (ICDSIS)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
 2025 5th International Conference on Innovative Research in Applied Science, Engineering and Technology (IRASET)
-2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
 2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
 2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
 2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
@@ -810,48 +920,57 @@ Thinking Skills and Creativity
 2025 IEEE International Conference on Engineering, Technology, and Innovation (ICE/ITMC)
 2025 International Conference on Computational, Communication and Information Technology (ICCCIT)
 2025 International Conference on Intelligent Computing and Control Systems (ICICCS)
-2025 International Conference on Pervasive Computational Technologies (ICPCT)
 2025 International Conference on Smart Computing, IoT and Machine Learning (SIML)
 2025 International Conference on Smart Learning Courses (SCME)
 2025 International Symposium on Educational Technology (ISET)
 2025 International Symposium on Educational Technology (ISET)
 2025 International Symposium on Educational Technology (ISET)
 2025 International Symposium on Educational Technology (ISET)
-2025 International Symposium on Educational Technology (ISET)
-2025 Joint Urban Remote Sensing Event (JURSE)
 2025 MIPRO 48th ICT and Electronics Convention
 2025 MIPRO 48th ICT and Electronics Convention
 2025 Seventh International Symposium on Computer, Consumer and Control (IS3C)
 2nd International Conference on Mechatronic Automation and Electrical Engineering (ICMAEE 2024)
 9th International Conference on New Energy and Future Energy Systems (NEFES 2024)
-CMES - Computer Modeling in Engineering and Sciences
-Communications in Transportation Research
+Acta Physico-Chimica Sinica
+Acta Psychologica
+Ain Shams Engineering Journal
+Annals of Tourism Research
+Applied Soft Computing
+Aquacultural Engineering
+Arthroscopy: The Journal of Arthroscopic \& Related Surgery
+Asia-Pacific Journal of Ophthalmology
+Asian Journal of Psychiatry
+Brazilian Journal of Otorhinolaryngology
+Chinese Journal of Aeronautics
+Clinical Simulation in Nursing
+Clinical Simulation in Nursing
+Clinical Simulation in Nursing
 Computer
+Computer Methods in Applied Mechanics and Engineering
 Computers \& Education
 Computers \& Education
-Computers \& Education
-Computers \& Education
-Computers \& Education
-Computers \& Education
-Computers \& Education
-Computers \& Education: X Reality
+Computers and Education Open
 Computers and Education: Artificial Intelligence
 Computers and Education: Artificial Intelligence
 Computers and Education: Artificial Intelligence
 Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers in Human Behavior
+Computers and Electronics in Agriculture
+Computers in Human Behavior Reports
+Computers in Human Behavior Reports
 Computers in Human Behavior: Artificial Humans
-Decision Analytics Journal
-Educational Research Review
-Encyclopedia of Libraries, Librarianship, and Information Science (First Edition)
-Encyclopedia of Libraries, Librarianship, and Information Science (First Edition)
-Entertainment Computing
+Current Opinion in Psychology
+Decision Support Systems
+Dentistry Review
+Dermatologic Clinics
+Development and Learning in Organizations: An International Journal
+Digestive and Liver Disease
+Displays
+Electronic Commerce Research and Applications
+Energy and AI
+Engineering Applications of Artificial Intelligence
+Epilepsy \& Behavior
+Foresight
+Gastroenterology
 Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
 Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
 Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
@@ -899,6 +1018,7 @@ IEEE Engineering Management Review
 IEEE Engineering Management Review
 IEEE Engineering Management Review
 IEEE Geoscience and Remote Sensing Letters
+IEEE INFOCOM 2025 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)
 IEEE Industrial Electronics Magazine
 IEEE Intelligent Systems
 IEEE Internet Computing
@@ -908,7 +1028,6 @@ IEEE Internet of Things Journal
 IEEE Internet of Things Journal
 IEEE Internet of Things Journal
 IEEE Internet of Things Magazine
-IEEE Journal of Biomedical and Health Informatics
 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 IEEE Journal on Selected Areas in Communications
@@ -934,7 +1053,6 @@ IEEE Transactions on Learning Technologies
 IEEE Vehicular Technology Magazine
 IEEE Vehicular Technology Magazine
 IEEE Vehicular Technology Magazine
-IFAC-PapersOnLine
 IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium
 IT Professional
 IT Professional
@@ -943,29 +1061,73 @@ IT Professional
 IT Professional
 IT Professional
 IT Professional
+Information Technology \& People
+Information and Learning Sciences
 Inside Cyber: How AI, 5G, IoT, and Quantum Computing Will Transform Privacy and Our Security
-International Journal of Child-Computer Interaction
-International Journal of Educational Research
-International Journal of Online Pedagogy and Course Design
+Integrative Medicine Research
+Integrative Medicine Research
+International Journal of Hospitality Management
+International Journal of Hospitality Management
+International Journal of Knowledge Management
+International Journal of Nursing Sciences
+International Journal of Nursing Studies
+International Journal of Oral and Maxillofacial Surgery
+International Journal of Oral and Maxillofacial Surgery
+JACC: Advances
+JMIR Medical Education
+Journal of Accounting Education
+Journal of Adolescent Health
+Journal of Building Engineering
+Journal of Business Research
+Journal of Cleaner Production
+Journal of Innovation \& Knowledge
+Journal of Intelligent Construction
+Journal of Manufacturing Processes
+Journal of Professional Nursing
+Journal of Vascular Surgery
 Journal of Web Engineering
-Learning and Instruction
+Journal of the Society for Cardiovascular Angiography \& Interventions
+Labour Economics
+Learning and Motivation
+Mayo Clinic Proceedings: Digital Health
+Modern Pathology
 New Horizons in Artificial Intelligence in Libraries
 Nurse Education Today
-Nurse Education Today
+Nurse Education in Practice
+Practical Radiation Oncology
+Procedia CIRP
+Procedia Computer Science
+Procedia Computer Science
+Review of International Business and Strategy
 Securing Microsoft Azure OpenAI
-Social Sciences \& Humanities Open
-Social Sciences \& Humanities Open
-Social Sciences \& Humanities Open
+Sensors and Actuators A: Physical
+Soil Advances
 SoutheastCon 2024
+Surgery
 System
-Technovation
+System
+Teaching and Learning in Nursing
+Teaching and Teacher Education
+Teaching and Teacher Education
+Technology in Society
+Technology in Society
 Telematics and Informatics Reports
+The Innovation
 The International Journal of Management Education
-The Internet and Higher Education
-Thinking Skills and Creativity
-Thinking Skills and Creativity
-Thinking Skills and Creativity
-Thinking Skills and Creativity
+The Journal of Academic Librarianship
+The Journal of Academic Librarianship
+The Journal of Academic Librarianship
+The Lancet Digital Health
+Thermal Science and Engineering Progress
+Tourism Management
+Tourism Management Perspectives
+Value in Health
+Value in Health
+Value in Health
+World Patent Information
+World Patent Information
+iScience
+iScience
 
 # ordenamiento por treesort
 2023 12th Mediterranean Conference on Embedded Computing (MECO)
@@ -990,7 +1152,6 @@ Thinking Skills and Creativity
 2024 16th International Conference on Intelligent Human-Machine Systems and Cybernetics (IHMSC)
 2024 16th International Conference on Intelligent Human-Machine Systems and Cybernetics (IHMSC)
 2024 17th International Symposium on Computational Intelligence and Design (ISCID)
-2024 17th International Symposium on Computational Intelligence and Design (ISCID)
 2024 1st International Conference on Advances in Computing, Communication and Networking (ICAC2N)
 2024 23rd International Symposium INFOTEH-JAHORINA (INFOTEH)
 2024 28th International Conference Information Visualisation (IV)
@@ -999,7 +1160,6 @@ Thinking Skills and Creativity
 2024 2nd International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS)
 2024 2nd World Conference on Communication \& Computing (WCONF)
 2024 36th International Conference on Software Engineering Education and Training (CSEE\&T)
-2024 3rd International Conference on Artificial Intelligence and Software Engineering (ICAISE)
 2024 3rd International Conference on Creative Communication and Innovative Technology (ICCIT)
 2024 3rd International Conference on Image Processing and Media Computing (ICIPMC)
 2024 47th MIPRO ICT and Electronics Convention (MIPRO)
@@ -1015,7 +1175,6 @@ Thinking Skills and Creativity
 2024 5th International Conference on Artificial Intelligence and Computer Engineering (ICAICE)
 2024 5th International Conference on Industrial Engineering and Artificial Intelligence (IEAI)
 2024 5th International Conference on Intelligent Communication Technologies and Virtual Mobile Networks (ICICV)
-2024 5th International Conference on Intelligent Design (ICID)
 2024 5th International Conference on Intelligent Design (ICID)
 2024 7th International Conference on Internet Applications, Protocols, and Services (NETAPPS)
 2024 9th International Conference on Computer Science and Engineering (UBMK)
@@ -1037,12 +1196,9 @@ Thinking Skills and Creativity
 2024 IEEE 7th International Conference and Workshop Óbuda on Electrical and Power Engineering (CANDO-EPE)
 2024 IEEE 8th Conference on Energy Internet and Energy System Integration (EI2)
 2024 IEEE 8th Conference on Energy Internet and Energy System Integration (EI2)
-2024 IEEE 8th International Conference on Vision, Image and Signal Processing (ICVISP)
-2024 IEEE 9th International Conference for Convergence in Technology (I2CT)
 2024 IEEE Digital Education and MOOCS Conference (DEMOcon)
 2024 IEEE Frontiers in Education Conference (FIE)
 2024 IEEE Frontiers in Education Conference (FIE)
-2024 IEEE Global Engineering Education Conference (EDUCON)
 2024 IEEE Global Engineering Education Conference (EDUCON)
 2024 IEEE Global Engineering Education Conference (EDUCON)
 2024 IEEE International Conference on Artificial Intelligence Testing (AITest)
@@ -1057,7 +1213,6 @@ Thinking Skills and Creativity
 2024 IEEE SmartBlock4Africa
 2024 IEEE World Engineering Education Conference (EDUNINE)
 2024 IEEE World Engineering Education Conference (EDUNINE)
-2024 IEEE/ACIS 22nd International Conference on Software Engineering Research, Management and Applications (SERA)
 2024 IEEE/ACM 46th International Conference on Software Engineering (ICSE)
 2024 IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT)
 2024 International Automatic Control Conference (CACS)
@@ -1066,14 +1221,12 @@ Thinking Skills and Creativity
 2024 International Conference on Artificial Intelligence, Big Data, Computing and Data Communication Systems (icABCD)
 2024 International Conference on Artificial Intelligence, Deep Learning and Neural Networks (AIDLNN)
 2024 International Conference on Computational Intelligence for Green and Sustainable Technologies (ICCIGST)
-2024 International Conference on Computers, Information Processing and Advanced Education (CIPAE)
 2024 International Conference on Computing and Data Science (ICCDS)
 2024 International Conference on Decision Aid Sciences and Applications (DASA)
 2024 International Conference on Decision Aid Sciences and Applications (DASA)
 2024 International Conference on Decision Aid Sciences and Applications (DASA)
 2024 International Conference on Emerging Technologies and Innovation for Sustainability (EmergIN)
 2024 International Conference on Engineering \& Computing Technologies (ICECT)
-2024 International Conference on Graphics and Interaction (ICGI)
 2024 International Conference on ICT for Smart Society (ICISS)
 2024 International Conference on Informatics Education and Computer Technology Applications (IECA)
 2024 International Conference on Informatics, Multimedia, Cyber and Information System (ICIMCIS)
@@ -1083,7 +1236,6 @@ Thinking Skills and Creativity
 2024 International Conference on Sustainable Energy: Energy Transition and Net-Zero Climate Future (ICUE)
 2024 International Symposium on Educational Technology (ISET)
 2024 International Symposium on Networks, Computers and Communications (ISNCC)
-2024 Ninth International Conference on Informatics and Computing (ICIC)
 2024 Portland International Conference on Management of Engineering and Technology (PICMET)
 2024 Research, Invention, and Innovation Congress: Innovative Electricals and Electronics (RI2C)
 2024 Tenth International Conference on eDemocracy \& eGovernment (ICEDEG)
@@ -1103,8 +1255,20 @@ Thinking Skills and Creativity
 2025 2nd International Conference on Informatics Education and Computer Technology Applications (IECA)
 2025 37th Conference of Open Innovations Association (FRUCT)
 2025 3rd International Conference on Data Science and Information System (ICDSIS)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
 2025 5th International Conference on Innovative Research in Applied Science, Engineering and Technology (IRASET)
-2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
 2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
 2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
 2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
@@ -1133,48 +1297,57 @@ Thinking Skills and Creativity
 2025 IEEE International Conference on Engineering, Technology, and Innovation (ICE/ITMC)
 2025 International Conference on Computational, Communication and Information Technology (ICCCIT)
 2025 International Conference on Intelligent Computing and Control Systems (ICICCS)
-2025 International Conference on Pervasive Computational Technologies (ICPCT)
 2025 International Conference on Smart Computing, IoT and Machine Learning (SIML)
 2025 International Conference on Smart Learning Courses (SCME)
 2025 International Symposium on Educational Technology (ISET)
 2025 International Symposium on Educational Technology (ISET)
 2025 International Symposium on Educational Technology (ISET)
 2025 International Symposium on Educational Technology (ISET)
-2025 International Symposium on Educational Technology (ISET)
-2025 Joint Urban Remote Sensing Event (JURSE)
 2025 MIPRO 48th ICT and Electronics Convention
 2025 MIPRO 48th ICT and Electronics Convention
 2025 Seventh International Symposium on Computer, Consumer and Control (IS3C)
 2nd International Conference on Mechatronic Automation and Electrical Engineering (ICMAEE 2024)
 9th International Conference on New Energy and Future Energy Systems (NEFES 2024)
-CMES - Computer Modeling in Engineering and Sciences
-Communications in Transportation Research
+Acta Physico-Chimica Sinica
+Acta Psychologica
+Ain Shams Engineering Journal
+Annals of Tourism Research
+Applied Soft Computing
+Aquacultural Engineering
+Arthroscopy: The Journal of Arthroscopic \& Related Surgery
+Asia-Pacific Journal of Ophthalmology
+Asian Journal of Psychiatry
+Brazilian Journal of Otorhinolaryngology
+Chinese Journal of Aeronautics
+Clinical Simulation in Nursing
+Clinical Simulation in Nursing
+Clinical Simulation in Nursing
 Computer
+Computer Methods in Applied Mechanics and Engineering
 Computers \& Education
 Computers \& Education
-Computers \& Education
-Computers \& Education
-Computers \& Education
-Computers \& Education
-Computers \& Education
-Computers \& Education: X Reality
+Computers and Education Open
 Computers and Education: Artificial Intelligence
 Computers and Education: Artificial Intelligence
 Computers and Education: Artificial Intelligence
 Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers in Human Behavior
+Computers and Electronics in Agriculture
+Computers in Human Behavior Reports
+Computers in Human Behavior Reports
 Computers in Human Behavior: Artificial Humans
-Decision Analytics Journal
-Educational Research Review
-Encyclopedia of Libraries, Librarianship, and Information Science (First Edition)
-Encyclopedia of Libraries, Librarianship, and Information Science (First Edition)
-Entertainment Computing
+Current Opinion in Psychology
+Decision Support Systems
+Dentistry Review
+Dermatologic Clinics
+Development and Learning in Organizations: An International Journal
+Digestive and Liver Disease
+Displays
+Electronic Commerce Research and Applications
+Energy and AI
+Engineering Applications of Artificial Intelligence
+Epilepsy \& Behavior
+Foresight
+Gastroenterology
 Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
 Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
 Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
@@ -1222,6 +1395,7 @@ IEEE Engineering Management Review
 IEEE Engineering Management Review
 IEEE Engineering Management Review
 IEEE Geoscience and Remote Sensing Letters
+IEEE INFOCOM 2025 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)
 IEEE Industrial Electronics Magazine
 IEEE Intelligent Systems
 IEEE Internet Computing
@@ -1231,7 +1405,6 @@ IEEE Internet of Things Journal
 IEEE Internet of Things Journal
 IEEE Internet of Things Journal
 IEEE Internet of Things Magazine
-IEEE Journal of Biomedical and Health Informatics
 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 IEEE Journal on Selected Areas in Communications
@@ -1257,7 +1430,6 @@ IEEE Transactions on Learning Technologies
 IEEE Vehicular Technology Magazine
 IEEE Vehicular Technology Magazine
 IEEE Vehicular Technology Magazine
-IFAC-PapersOnLine
 IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium
 IT Professional
 IT Professional
@@ -1266,352 +1438,450 @@ IT Professional
 IT Professional
 IT Professional
 IT Professional
+Information Technology \& People
+Information and Learning Sciences
 Inside Cyber: How AI, 5G, IoT, and Quantum Computing Will Transform Privacy and Our Security
-International Journal of Child-Computer Interaction
-International Journal of Educational Research
-International Journal of Online Pedagogy and Course Design
+Integrative Medicine Research
+Integrative Medicine Research
+International Journal of Hospitality Management
+International Journal of Hospitality Management
+International Journal of Knowledge Management
+International Journal of Nursing Sciences
+International Journal of Nursing Studies
+International Journal of Oral and Maxillofacial Surgery
+International Journal of Oral and Maxillofacial Surgery
+JACC: Advances
+JMIR Medical Education
+Journal of Accounting Education
+Journal of Adolescent Health
+Journal of Building Engineering
+Journal of Business Research
+Journal of Cleaner Production
+Journal of Innovation \& Knowledge
+Journal of Intelligent Construction
+Journal of Manufacturing Processes
+Journal of Professional Nursing
+Journal of Vascular Surgery
 Journal of Web Engineering
-Learning and Instruction
+Journal of the Society for Cardiovascular Angiography \& Interventions
+Labour Economics
+Learning and Motivation
+Mayo Clinic Proceedings: Digital Health
+Modern Pathology
 New Horizons in Artificial Intelligence in Libraries
 Nurse Education Today
-Nurse Education Today
+Nurse Education in Practice
+Practical Radiation Oncology
+Procedia CIRP
+Procedia Computer Science
+Procedia Computer Science
+Review of International Business and Strategy
 Securing Microsoft Azure OpenAI
-Social Sciences \& Humanities Open
-Social Sciences \& Humanities Open
-Social Sciences \& Humanities Open
+Sensors and Actuators A: Physical
+Soil Advances
 SoutheastCon 2024
+Surgery
 System
-Technovation
+System
+Teaching and Learning in Nursing
+Teaching and Teacher Education
+Teaching and Teacher Education
+Technology in Society
+Technology in Society
 Telematics and Informatics Reports
+The Innovation
 The International Journal of Management Education
-The Internet and Higher Education
-Thinking Skills and Creativity
-Thinking Skills and Creativity
-Thinking Skills and Creativity
-Thinking Skills and Creativity
+The Journal of Academic Librarianship
+The Journal of Academic Librarianship
+The Journal of Academic Librarianship
+The Lancet Digital Health
+Thermal Science and Engineering Progress
+Tourism Management
+Tourism Management Perspectives
+Value in Health
+Value in Health
+Value in Health
+World Patent Information
+World Patent Information
+iScience
+iScience
 
 # ordenamiento por pigeonholesort
-2025 International Conference on Computational, Communication and Information Technology (ICCCIT)
-IEEE Communications Magazine
-IEEE Communications Magazine
-IEEE Communications Magazine
-IEEE Communications Magazine
-2024 Ninth International Conference on Informatics and Computing (ICIC)
-2025 Joint Urban Remote Sensing Event (JURSE)
-2024 IEEE 6th Eurasia Conference on Biomedical Engineering, Healthcare and Sustainability (ECBIOS)
-2024 IEEE 6th Eurasia Conference on Biomedical Engineering, Healthcare and Sustainability (ECBIOS)
-IEEE Industrial Electronics Magazine
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-2024 IEEE 9th International Conference for Convergence in Technology (I2CT)
-2024 ASU International Conference in Emerging Technologies for Sustainability and Intelligent Systems (ICETSIS)
-2025 IEEE Conference on Education and Training in Optics and Photonics (ETOP)
-2023 IEEE International Conference on Teaching, Assessment and Learning for Engineering (TALE)
-IEEE Vehicular Technology Magazine
-IEEE Vehicular Technology Magazine
-IEEE Vehicular Technology Magazine
-2024 1st International Conference on Advances in Computing, Communication and Networking (ICAC2N)
-2024 IEEE 19th International Conference on Computer Science and Information Technologies (CSIT)
-IFAC-PapersOnLine
-2024 47th MIPRO ICT and Electronics Convention (MIPRO)
-2024 47th MIPRO ICT and Electronics Convention (MIPRO)
-2025 MIPRO 48th ICT and Electronics Convention
-2025 MIPRO 48th ICT and Electronics Convention
-2025 IEEE International Conference on Electronics, Energy Systems and Power Engineering (EESPE)
-2025 IEEE International Conference on Electronics, Energy Systems and Power Engineering (EESPE)
-2024 IEEE Frontiers in Education Conference (FIE)
-2024 IEEE Frontiers in Education Conference (FIE)
-2024 3rd International Conference on Artificial Intelligence and Software Engineering (ICAISE)
-IEEE Solid-State Circuits Magazine
-2024 16th International Conference on Intelligent Human-Machine Systems and Cybernetics (IHMSC)
-2024 16th International Conference on Intelligent Human-Machine Systems and Cybernetics (IHMSC)
-2023 International Conference on Consumer Electronics - Taiwan (ICCE-Taiwan)
-Communications in Transportation Research
-2024 Tenth International Conference on eDemocracy \& eGovernment (ICEDEG)
-2024 Portland International Conference on Management of Engineering and Technology (PICMET)
-2024 International Conference on Advances in Computing, Communication and Materials (ICACCM)
-2025 2nd International Conference on Informatics Education and Computer Technology Applications (IECA)
-2024 International Conference on Intelligent Education and Intelligent Research (IEIR)
-2025 Seventh International Symposium on Computer, Consumer and Control (IS3C)
-2024 IEEE 36th International Conference on Tools with Artificial Intelligence (ICTAI)
-2025 3rd International Conference on Data Science and Information System (ICDSIS)
-Technovation
-IEEE Transactions on Learning Technologies
-IEEE Transactions on Learning Technologies
-IEEE Transactions on Learning Technologies
-2024 IEEE Global Engineering Education Conference (EDUCON)
-2024 IEEE Global Engineering Education Conference (EDUCON)
-2024 IEEE Global Engineering Education Conference (EDUCON)
-International Journal of Online Pedagogy and Course Design
-IEEE Transactions on Cognitive Communications and Networking
 2024 IEEE International Conference on Cyber Security and Resilience (CSR)
-2024 5th International Conference on Intelligent Design (ICID)
-2024 5th International Conference on Intelligent Design (ICID)
-2025 IEEE 18th Pacific Visualization Conference (PacificVis)
-2024 2nd International Conference on Cyber Resilience (ICCR)
-2025 IEEE 8th Information Technology and Mechatronics Engineering Conference (ITOEC)
-SoutheastCon 2024
-2024 11th International Symposium on Telecommunications (IST)
-2024 Asia Pacific Conference on Innovation in Technology (APCIT)
-2023 13th International Conference on Information Technology in Medicine and Education (ITME)
-2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
-2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
-2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
-2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
-2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
-2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
-2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
-2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
-2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
-IT Professional
-IT Professional
-IT Professional
-IT Professional
-IT Professional
-IT Professional
-IT Professional
-2024 36th International Conference on Software Engineering Education and Training (CSEE\&T)
-IEEE Consumer Electronics Magazine
-2024 IEEE SmartBlock4Africa
-2024 International Conference on Computers, Information Processing and Advanced Education (CIPAE)
-Inside Cyber: How AI, 5G, IoT, and Quantum Computing Will Transform Privacy and Our Security
-2023 XIII International Conference on Virtual Campus (JICV)
-IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium
-Educational Research Review
-IEEE Transactions on Education
-2024 IEEE International Conference on Automation/XXVI Congress of the Chilean Association of Automatic Control (ICA-ACCA)
-2023 International Conference on Engineering and Emerging Technologies (ICEET)
-2024 International Conference on ICT for Smart Society (ICISS)
-International Journal of Educational Research
-IEEE Intelligent Systems
-2024 IEEE/ACIS 22nd International Conference on Software Engineering Research, Management and Applications (SERA)
-2023 International Electron Devices Meeting (IEDM)
-Computers \& Education: X Reality
-2025 5th International Conference on Innovative Research in Applied Science, Engineering and Technology (IRASET)
-2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)
-Generative Artificial Intelligence for Biomedical and Smart Health Informatics
-Generative Artificial Intelligence for Biomedical and Smart Health Informatics
-Generative Artificial Intelligence for Biomedical and Smart Health Informatics
-Generative Artificial Intelligence for Biomedical and Smart Health Informatics
-Generative Artificial Intelligence for Biomedical and Smart Health Informatics
-Generative Artificial Intelligence for Biomedical and Smart Health Informatics
-2025 International Symposium on Educational Technology (ISET)
-2025 International Symposium on Educational Technology (ISET)
-2025 International Symposium on Educational Technology (ISET)
-2025 International Symposium on Educational Technology (ISET)
-2025 International Symposium on Educational Technology (ISET)
-2025 IEEE Global Engineering Education Conference (EDUCON)
-2025 IEEE Global Engineering Education Conference (EDUCON)
-2025 IEEE Global Engineering Education Conference (EDUCON)
-IEEE Journal of Biomedical and Health Informatics
-2024 5th International Conference on Artificial Intelligence and Computer Engineering (ICAICE)
-Decision Analytics Journal
-2024 International Conference on Intelligent Computing and Emerging Communication Technologies (ICEC)
-2024 IEEE 8th International Conference on Vision, Image and Signal Processing (ICVISP)
-2024 7th International Conference on Internet Applications, Protocols, and Services (NETAPPS)
-2025 11th International Conference on Web Research (ICWR)
-2024 International Conference on Artificial Intelligence, Big Data, Computing and Data Communication Systems (icABCD)
-IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
-IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
-2025 7th International Congress on Human-Computer Interaction, Optimization and Robotic Applications (ICHORA)
-2024 9th International Conference on Computer Science and Engineering (UBMK)
-2024 9th International Conference on Computer Science and Engineering (UBMK)
-2025 IEEE 22nd International Multi-Conference on Systems, Signals \& Devices (SSD)
-2024 IEEE/ACM 46th International Conference on Software Engineering (ICSE)
-IEEE Communications Letters
-2025 12th International Conference on Computing for Sustainable Global Development (INDIACom)
-2024 5th International Conference in Electronic Engineering, Information Technology \& Education (EEITE)
-2024 5th International Conference in Electronic Engineering, Information Technology \& Education (EEITE)
-IEEE Potentials
-2024 IEEE 17th International Scientific Conference on Informatics (Informatics)
-2024 IEEE International Conference on Metrology for eXtended Reality, Artificial Intelligence and Neural Engineering (MetroXRAINE)
-2024 World Engineering Education Forum - Global Engineering Deans Council (WEEF-GEDC)
-2024 4th International Conference on Educational Technology (ICET)
-2024 4th International Conference on Educational Technology (ICET)
-2024 4th International Conference on Educational Technology (ICET)
-2024 4th International Conference on Educational Technology (ICET)
-2025 International Conference on Pervasive Computational Technologies (ICPCT)
-Computers in Human Behavior
-2024 International Conference on Artificial Intelligence, Deep Learning and Neural Networks (AIDLNN)
-2024 4th International Conference on Advanced Research in Computing (ICARC)
-Nurse Education Today
-Nurse Education Today
-9th International Conference on New Energy and Future Energy Systems (NEFES 2024)
-2024 IEEE 35th International Symposium on Software Reliability Engineering Workshops (ISSREW)
-2025 16th International Conference on E-Education, E-Business, E-Management and E-Learning (IC4e)
-2025 16th International Conference on E-Education, E-Business, E-Management and E-Learning (IC4e)
-2024 4th International Conference on Electronic Information Engineering and Computer (EIECT)
-2023 3rd International Conference on Educational Technology (ICET)
-2024 International Conference on Engineering \& Computing Technologies (ICECT)
-Learning and Instruction
-2023 6th International Conference on Contemporary Computing and Informatics (IC3I)
-2024 International Conference on Graphics and Interaction (ICGI)
-2025 IEEE 5th International Conference on Electronic Technology, Communication and Information (ICETCI)
-2025 24th International Symposium INFOTEH-JAHORINA (INFOTEH)
-2025 IEEE International Conference on Engineering, Technology, and Innovation (ICE/ITMC)
 2024 Research, Invention, and Innovation Congress: Innovative Electricals and Electronics (RI2C)
-Social Sciences \& Humanities Open
-Social Sciences \& Humanities Open
-Social Sciences \& Humanities Open
-2024 International Symposium on Educational Technology (ISET)
-2024 IEEE International Conference on Engineering Veracruz (ICEV)
-2024 International Conference on Computing and Data Science (ICCDS)
-2024 17th International Symposium on Computational Intelligence and Design (ISCID)
-2024 17th International Symposium on Computational Intelligence and Design (ISCID)
-2024 IEEE 8th Conference on Energy Internet and Energy System Integration (EI2)
-2024 IEEE 8th Conference on Energy Internet and Energy System Integration (EI2)
-2023 IEEE Frontiers in Education Conference (FIE)
-Thinking Skills and Creativity
-Thinking Skills and Creativity
-Thinking Skills and Creativity
-Thinking Skills and Creativity
-IEEE Internet Computing
-Computers in Human Behavior: Artificial Humans
-2023 12th Mediterranean Conference on Embedded Computing (MECO)
-2024 IEEE Digital Education and MOOCS Conference (DEMOcon)
-2024 IEEE 13th International Conference on Engineering Education (ICEED)
-2024 11th IEEE Swiss Conference on Data Science (SDS)
-2024 International Conference on Interactive Intelligent Systems and Techniques (IIST)
-2025 8th International Conference on Artificial Intelligence and Big Data (ICAIBD)
-2025 International Conference on Smart Learning Courses (SCME)
-2024 2nd International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS)
-2024 IEEE 12th International Conference on Healthcare Informatics (ICHI)
-IEEE Internet of Things Journal
-IEEE Internet of Things Journal
-IEEE Internet of Things Journal
-IEEE Internet of Things Journal
-IEEE Internet of Things Journal
-2023 18th Iberian Conference on Information Systems and Technologies (CISTI)
-2024 International Conference on Computational Intelligence for Green and Sustainable Technologies (ICCIGST)
-2024 E-Health and Bioengineering Conference (EHB)
-2024 IEEE World Engineering Education Conference (EDUNINE)
-2024 IEEE World Engineering Education Conference (EDUNINE)
-System
-2025 37th Conference of Open Innovations Association (FRUCT)
-Computer
-2023 IEEE International Conference on ICT in Business Industry \& Government (ICTBIG)
-2023 IEEE International Conference on ICT in Business Industry \& Government (ICTBIG)
-IEEE Transactions on Intelligent Transportation Systems
-Securing Microsoft Azure OpenAI
-2023 International Conference on Big Data, Knowledge and Control Systems Engineering (BdKCSE)
-2023 International Conference on Big Data, Knowledge and Control Systems Engineering (BdKCSE)
-IEEE Pervasive Computing
-CMES - Computer Modeling in Engineering and Sciences
-2024 International Automatic Control Conference (CACS)
-IEEE Transactions on Computational Social Systems
-2024 IEEE 7th International Conference and Workshop Óbuda on Electrical and Power Engineering (CANDO-EPE)
-2024 5th International Conference on Industrial Engineering and Artificial Intelligence (IEAI)
-2025 IEEE 3rd International Conference on Image Processing and Computer Applications (ICIPCA)
-The International Journal of Management Education
-2024 IEEE International Conference on Technology Management, Operations and Decisions (ICTMOD)
-Journal of Web Engineering
+Information and Learning Sciences
+The Journal of Academic Librarianship
+The Journal of Academic Librarianship
+The Journal of Academic Librarianship
 2024 2nd World Conference on Communication \& Computing (WCONF)
-2024 Artificial Intelligence for Business (AIxB)
-International Journal of Child-Computer Interaction
-2024 International Symposium on Networks, Computers and Communications (ISNCC)
-2024 23rd International Symposium INFOTEH-JAHORINA (INFOTEH)
-2025 11th International Conference on Education and Training Technologies (ICETT)
-2025 11th International Conference on Education and Training Technologies (ICETT)
-2025 11th International Conference on Education and Training Technologies (ICETT)
-2025 11th International Conference on Education and Training Technologies (ICETT)
-2024 International Conference on Emerging Technologies and Innovation for Sustainability (EmergIN)
-2024 2nd International Conference on Advancement in Computation \& Computer Technologies (InCACCT)
-2025 International Conference on Smart Computing, IoT and Machine Learning (SIML)
-2024 28th International Conference Information Visualisation (IV)
-2024 IEEE Pune Section International Conference (PuneCon)
-IEEE Access
-IEEE Access
-IEEE Access
-IEEE Access
-IEEE Access
-IEEE Access
-IEEE Access
-IEEE Access
-IEEE Access
+2025 MIPRO 48th ICT and Electronics Convention
+2025 MIPRO 48th ICT and Electronics Convention
+2025 2nd International Conference on Informatics Education and Computer Technology Applications (IECA)
+2024 4th International Conference on Advanced Research in Computing (ICARC)
+2024 IEEE International Conference on Technology Management, Operations and Decisions (ICTMOD)
+2024 4th International Conference on Electronic Information Engineering and Computer (EIECT)
+2024 2nd International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS)
+2024 16th International Conference on Intelligent Human-Machine Systems and Cybernetics (IHMSC)
+2024 16th International Conference on Intelligent Human-Machine Systems and Cybernetics (IHMSC)
+2024 IEEE 17th International Scientific Conference on Informatics (Informatics)
+International Journal of Knowledge Management
+IEEE Software
+IEEE Signal Processing Magazine
+Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
+Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
+Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
+Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
+Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
+Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
+Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
+Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
+Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
+Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
+Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
+Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
+Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
+Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
+Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
+Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
+Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
+Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
+Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
+Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
+Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
+SoutheastCon 2024
+2025 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)
+2025 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)
+2024 3rd International Conference on Creative Communication and Innovative Technology (ICCIT)
+2024 IEEE 19th International Conference on Computer Science and Information Technologies (CSIT)
 2024 International Conference on Informatics Education and Computer Technology Applications (IECA)
+Dentistry Review
+2024 IEEE/ACM 46th International Conference on Software Engineering (ICSE)
+Chinese Journal of Aeronautics
+IEEE Internet of Things Magazine
+2023 3rd International Conference on Educational Technology (ICET)
+The International Journal of Management Education
+Procedia Computer Science
+Procedia Computer Science
+Journal of Adolescent Health
+Surgery
+Learning and Motivation
 2024 5th International Conference on Intelligent Communication Technologies and Virtual Mobile Networks (ICICV)
+IEEE Transactions on Cognitive Communications and Networking
+2023 13th International Conference on Information Technology in Medicine and Education (ITME)
+2023 International Conference on Consumer Electronics - Taiwan (ICCE-Taiwan)
+2024 9th International Conference on Computer Science and Engineering (UBMK)
+2024 9th International Conference on Computer Science and Engineering (UBMK)
+2024 IEEE World Engineering Education Conference (EDUNINE)
+2024 IEEE World Engineering Education Conference (EDUNINE)
+2024 International Symposium on Educational Technology (ISET)
+IEEE Solid-State Circuits Magazine
+2024 IEEE 7th International Conference and Workshop Óbuda on Electrical and Power Engineering (CANDO-EPE)
+2024 IEEE International Conference on Artificial Intelligence Testing (AITest)
+Acta Psychologica
+2025 International Conference on Computational, Communication and Information Technology (ICCCIT)
+IEEE Potentials
+2024 5th International Conference on Industrial Engineering and Artificial Intelligence (IEAI)
+IEEE Consumer Electronics Magazine
+2023 International Conference on Engineering and Emerging Technologies (ICEET)
+2024 International Conference on Computational Intelligence for Green and Sustainable Technologies (ICCIGST)
+Journal of Innovation \& Knowledge
+2025 1st International Conference on Secure IoT, Assured and Trusted Computing (SATC)
+2024 Third International Conference on Distributed Computing and Electrical Circuits and Electronics (ICDCECE)
+2024 International Conference on Emerging Technologies and Innovation for Sustainability (EmergIN)
+Journal of the Society for Cardiovascular Angiography \& Interventions
+IEEE Reliability Magazine
+2025 IEEE Conference on Education and Training in Optics and Photonics (ETOP)
+2024 World Engineering Education Forum - Global Engineering Deans Council (WEEF-GEDC)
+2023 XIII International Conference on Virtual Campus (JICV)
+2023 IEEE International Conference on ICT in Business Industry \& Government (ICTBIG)
+2023 IEEE International Conference on ICT in Business Industry \& Government (ICTBIG)
+2024 International Conference on Engineering \& Computing Technologies (ICECT)
+IT Professional
+IT Professional
+IT Professional
+IT Professional
+IT Professional
+IT Professional
+IT Professional
+JACC: Advances
+2025 International Conference on Smart Learning Courses (SCME)
+Aquacultural Engineering
+Journal of Professional Nursing
+Journal of Building Engineering
+Tourism Management
+2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)
+2025 IEEE Global Engineering Education Conference (EDUCON)
+2025 IEEE Global Engineering Education Conference (EDUCON)
+2025 IEEE Global Engineering Education Conference (EDUCON)
+Nurse Education in Practice
+2024 International Conference on Artificial Intelligence in Information and Communication (ICAIIC)
+2024 Portland International Conference on Management of Engineering and Technology (PICMET)
+Asian Journal of Psychiatry
+2024 IEEE Global Engineering Education Conference (EDUCON)
+2024 IEEE Global Engineering Education Conference (EDUCON)
+2024 11th International Symposium on Telecommunications (IST)
+Electronic Commerce Research and Applications
+2nd International Conference on Mechatronic Automation and Electrical Engineering (ICMAEE 2024)
+2024 36th International Conference on Software Engineering Education and Training (CSEE\&T)
+IEEE Engineering Management Review
+IEEE Engineering Management Review
+IEEE Engineering Management Review
+IEEE Communications Letters
+Securing Microsoft Azure OpenAI
+2025 International Symposium on Educational Technology (ISET)
+2025 International Symposium on Educational Technology (ISET)
+2025 International Symposium on Educational Technology (ISET)
+2025 International Symposium on Educational Technology (ISET)
+2023 18th Iberian Conference on Information Systems and Technologies (CISTI)
+2024 11th IEEE Swiss Conference on Data Science (SDS)
+2024 28th International Conference Information Visualisation (IV)
+2024 E-Health and Bioengineering Conference (EHB)
+2025 7th International Congress on Human-Computer Interaction, Optimization and Robotic Applications (ICHORA)
+Labour Economics
+Computers and Education Open
+2025 Eighth International Women in Data Science Conference at Prince Sultan University (WiDS PSU)
+2024 23rd International Symposium INFOTEH-JAHORINA (INFOTEH)
+2024 5th International Conference on Intelligent Design (ICID)
+2024 2nd International Conference on Advancement in Computation \& Computer Technologies (InCACCT)
+2023 IEEE International Conference on Teaching, Assessment and Learning for Engineering (TALE)
+IEEE Intelligent Systems
+2024 7th International Conference on Internet Applications, Protocols, and Services (NETAPPS)
+International Journal of Oral and Maxillofacial Surgery
+International Journal of Oral and Maxillofacial Surgery
+2025 24th International Symposium INFOTEH-JAHORINA (INFOTEH)
+2025 8th International Conference on Artificial Intelligence and Big Data (ICAIBD)
+IEEE INFOCOM 2025 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)
+IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium
+2024 17th International Symposium on Computational Intelligence and Design (ISCID)
+Computers and Electronics in Agriculture
+The Lancet Digital Health
+Teaching and Learning in Nursing
+2024 IEEE 12th International Conference on Computer Science and Network Technology (ICCSNT)
+2023 6th International Conference on Contemporary Computing and Informatics (IC3I)
+2024 International Conference on Intelligent Computing and Emerging Communication Technologies (ICEC)
+2023 IEEE Frontiers in Education Conference (FIE)
+IEEE Pervasive Computing
+Brazilian Journal of Otorhinolaryngology
+Applied Soft Computing
+Journal of Accounting Education
+2024 International Conference on ICT for Smart Society (ICISS)
+Annals of Tourism Research
+Arthroscopy: The Journal of Arthroscopic \& Related Surgery
+Epilepsy \& Behavior
+2024 IEEE 11th International Conference on Computational Cybernetics and Cyber-Medical Systems (ICCC)
+2024 International Conference on Interactive Intelligent Systems and Techniques (IIST)
+IEEE Access
+IEEE Access
+IEEE Access
+IEEE Access
+IEEE Access
+IEEE Access
+IEEE Access
+IEEE Access
+IEEE Access
+2025 International Conference on Smart Computing, IoT and Machine Learning (SIML)
+The Innovation
+Information Technology \& People
 2023 IEEE 17th International Conference on Application of Information and Communication Technologies (AICT)
+2025 Seventh International Symposium on Computer, Consumer and Control (IS3C)
+2024 IEEE 12th International Conference on Healthcare Informatics (ICHI)
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+Practical Radiation Oncology
+2023 International Conference on Big Data, Knowledge and Control Systems Engineering (BdKCSE)
+2023 International Conference on Big Data, Knowledge and Control Systems Engineering (BdKCSE)
+System
+System
+Thermal Science and Engineering Progress
+2024 2nd International Conference on Cyber Resilience (ICCR)
+Energy and AI
+IEEE Transactions on Computational Social Systems
+2025 IEEE 18th Pacific Visualization Conference (PacificVis)
+2024 IEEE International Conference on Automation/XXVI Congress of the Chilean Association of Automatic Control (ICA-ACCA)
+2025 IEEE 22nd International Multi-Conference on Systems, Signals \& Devices (SSD)
+Journal of Web Engineering
+2025 IEEE 5th International Conference on Electronic Technology, Communication and Information (ICETCI)
+2025 IEEE International Conference on Engineering, Technology, and Innovation (ICE/ITMC)
+Current Opinion in Psychology
+World Patent Information
+World Patent Information
+Journal of Vascular Surgery
+2024 IEEE SmartBlock4Africa
+2024 IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT)
+2024 Tenth International Conference on eDemocracy \& eGovernment (ICEDEG)
+International Journal of Hospitality Management
+International Journal of Hospitality Management
+2023 International Electron Devices Meeting (IEDM)
+2024 ASU International Conference in Emerging Technologies for Sustainability and Intelligent Systems (ICETSIS)
+2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
+2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
+2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
+2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
+2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
+2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
+2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
+2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
+2024 IEEE 36th International Conference on Tools with Artificial Intelligence (ICTAI)
+Ain Shams Engineering Journal
+Generative Artificial Intelligence for Biomedical and Smart Health Informatics
+Generative Artificial Intelligence for Biomedical and Smart Health Informatics
+Generative Artificial Intelligence for Biomedical and Smart Health Informatics
+Generative Artificial Intelligence for Biomedical and Smart Health Informatics
+Generative Artificial Intelligence for Biomedical and Smart Health Informatics
+Generative Artificial Intelligence for Biomedical and Smart Health Informatics
+2024 International Conference on Advances in Computing, Communication and Materials (ICACCM)
+2024 4th International Conference on Educational Technology (ICET)
+2024 4th International Conference on Educational Technology (ICET)
+2024 4th International Conference on Educational Technology (ICET)
+2024 4th International Conference on Educational Technology (ICET)
+2024 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct)
+2024 International Conference on Sustainable Energy: Energy Transition and Net-Zero Climate Future (ICUE)
+Asia-Pacific Journal of Ophthalmology
+Telematics and Informatics Reports
+2025 16th International Conference on E-Education, E-Business, E-Management and E-Learning (IC4e)
+2025 16th International Conference on E-Education, E-Business, E-Management and E-Learning (IC4e)
+2024 IEEE 8th Conference on Energy Internet and Energy System Integration (EI2)
+2024 IEEE 8th Conference on Energy Internet and Energy System Integration (EI2)
+2024 IEEE Pune Section International Conference (PuneCon)
+2024 International Conference on Artificial Intelligence, Deep Learning and Neural Networks (AIDLNN)
+IEEE Industrial Electronics Magazine
+2024 IEEE International Conference on Metrology for eXtended Reality, Artificial Intelligence and Neural Engineering (MetroXRAINE)
+Foresight
+Computer Methods in Applied Mechanics and Engineering
+2024 1st International Conference on Advances in Computing, Communication and Networking (ICAC2N)
+2025 5th International Conference on Innovative Research in Applied Science, Engineering and Technology (IRASET)
+Journal of Business Research
+Teaching and Teacher Education
+Teaching and Teacher Education
+2025 12th International Conference on Computing for Sustainable Global Development (INDIACom)
+Displays
+2024 IEEE 13th International Conference on Engineering Education (ICEED)
+2024 5th International Conference on Artificial Intelligence and Computer Engineering (ICAICE)
+Acta Physico-Chimica Sinica
+IEEE Transactions on Intelligent Transportation Systems
+IEEE Transactions on Engineering Management
+IEEE Transactions on Engineering Management
+IEEE Transactions on Engineering Management
+IEEE Transactions on Engineering Management
+IEEE Transactions on Engineering Management
+Journal of Manufacturing Processes
+Digestive and Liver Disease
+2024 International Symposium on Networks, Computers and Communications (ISNCC)
+Computer
+2024 IEEE 6th Eurasia Conference on Biomedical Engineering, Healthcare and Sustainability (ECBIOS)
+2024 IEEE 6th Eurasia Conference on Biomedical Engineering, Healthcare and Sustainability (ECBIOS)
+Value in Health
+Value in Health
+Value in Health
+2024 Asia Pacific Conference on Innovation in Technology (APCIT)
+2025 IEEE 8th Information Technology and Mechatronics Engineering Conference (ITOEC)
+2024 International Conference on Informatics, Multimedia, Cyber and Information System (ICIMCIS)
+IEEE Vehicular Technology Magazine
+IEEE Vehicular Technology Magazine
+IEEE Vehicular Technology Magazine
+International Journal of Nursing Sciences
+2024 IEEE 35th International Symposium on Software Reliability Engineering Workshops (ISSREW)
+IEEE Transactions on Education
+2024 3rd International Conference on Image Processing and Media Computing (ICIPMC)
+Integrative Medicine Research
+Integrative Medicine Research
+Engineering Applications of Artificial Intelligence
+Procedia CIRP
+2025 11th International Conference on Web Research (ICWR)
+2025 IEEE Engineering Education World Conference (EDUNINE)
+2024 IEEE Digital Education and MOOCS Conference (DEMOcon)
+2024 International Conference on Decision Aid Sciences and Applications (DASA)
+2024 International Conference on Decision Aid Sciences and Applications (DASA)
+2024 International Conference on Decision Aid Sciences and Applications (DASA)
+2025 37th Conference of Open Innovations Association (FRUCT)
+Gastroenterology
+International Journal of Nursing Studies
+IEEE Security \& Privacy
+Review of International Business and Strategy
+Nurse Education Today
+IEEE Internet of Things Journal
+IEEE Internet of Things Journal
+IEEE Internet of Things Journal
+IEEE Internet of Things Journal
+IEEE Internet of Things Journal
+IEEE Transactions on Learning Technologies
+IEEE Transactions on Learning Technologies
+IEEE Transactions on Learning Technologies
+2024 International Conference on Computing and Data Science (ICCDS)
+2025 IEEE International Conference on Electronics, Energy Systems and Power Engineering (EESPE)
+2025 IEEE International Conference on Electronics, Energy Systems and Power Engineering (EESPE)
+2024 IEEE International Conference on Engineering Veracruz (ICEV)
+Journal of Cleaner Production
+Modern Pathology
+2024 International Conference on Intelligent Education and Intelligent Research (IEIR)
+2025 11th International Conference on Education and Training Technologies (ICETT)
+2025 11th International Conference on Education and Training Technologies (ICETT)
+2025 11th International Conference on Education and Training Technologies (ICETT)
+2025 11th International Conference on Education and Training Technologies (ICETT)
+2025 3rd International Conference on Data Science and Information System (ICDSIS)
+2024 International Automatic Control Conference (CACS)
+Decision Support Systems
+Computers in Human Behavior: Artificial Humans
+IEEE Communications Magazine
+IEEE Communications Magazine
+IEEE Communications Magazine
+IEEE Communications Magazine
+2024 47th MIPRO ICT and Electronics Convention (MIPRO)
+2024 47th MIPRO ICT and Electronics Convention (MIPRO)
+Computers and Education: Artificial Intelligence
+Computers and Education: Artificial Intelligence
+Computers and Education: Artificial Intelligence
+Computers and Education: Artificial Intelligence
+2024 5th International Conference in Electronic Engineering, Information Technology \& Education (EEITE)
+2024 5th International Conference in Electronic Engineering, Information Technology \& Education (EEITE)
+Inside Cyber: How AI, 5G, IoT, and Quantum Computing Will Transform Privacy and Our Security
+Computers \& Education
+Computers \& Education
+2024 Winter Simulation Conference (WSC)
+2024 Artificial Intelligence for Business (AIxB)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+Clinical Simulation in Nursing
+Clinical Simulation in Nursing
+Clinical Simulation in Nursing
+Technology in Society
+Technology in Society
+Soil Advances
+9th International Conference on New Energy and Future Energy Systems (NEFES 2024)
+JMIR Medical Education
 IEEE Geoscience and Remote Sensing Letters
 IEEE Antennas and Wireless Propagation Letters
-IEEE Security \& Privacy
-2024 Winter Simulation Conference (WSC)
-Encyclopedia of Libraries, Librarianship, and Information Science (First Edition)
-Encyclopedia of Libraries, Librarianship, and Information Science (First Edition)
-IEEE Journal on Selected Areas in Communications
-2024 3rd International Conference on Creative Communication and Innovative Technology (ICCIT)
-IEEE Reliability Magazine
-2024 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct)
-IEEE Engineering Management Review
-IEEE Engineering Management Review
-IEEE Engineering Management Review
-2024 3rd International Conference on Image Processing and Media Computing (ICIPMC)
-2025 1st International Conference on Secure IoT, Assured and Trusted Computing (SATC)
-2024 International Conference on Decision Aid Sciences and Applications (DASA)
-2024 International Conference on Decision Aid Sciences and Applications (DASA)
-2024 International Conference on Decision Aid Sciences and Applications (DASA)
-2024 IEEE International Conference on Artificial Intelligence Testing (AITest)
-2024 Third International Conference on Distributed Computing and Electrical Circuits and Electronics (ICDCECE)
-IEEE Internet of Things Magazine
 2024 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)
-The Internet and Higher Education
-IEEE Software
-2024 IEEE 11th International Conference on Computational Cybernetics and Cyber-Medical Systems (ICCC)
-2nd International Conference on Mechatronic Automation and Electrical Engineering (ICMAEE 2024)
-IEEE Signal Processing Magazine
-2024 IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT)
-2025 International Conference on Intelligent Computing and Control Systems (ICICCS)
-2024 International Conference on Sustainable Energy: Energy Transition and Net-Zero Climate Future (ICUE)
-Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
-Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
-Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
-Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
-Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
-Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
-Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
-Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
-Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
-Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
-Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
-Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
-Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
-Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
-Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
-Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
-Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
-Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
-Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
-Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
-Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
-2024 International Conference on Artificial Intelligence in Information and Communication (ICAIIC)
-2025 Eighth International Women in Data Science Conference at Prince Sultan University (WiDS PSU)
-2024 International Conference on Informatics, Multimedia, Cyber and Information System (ICIMCIS)
-2024 IEEE 12th International Conference on Computer Science and Network Technology (ICCSNT)
-IEEE Transactions on Engineering Management
-IEEE Transactions on Engineering Management
-IEEE Transactions on Engineering Management
-IEEE Transactions on Engineering Management
-IEEE Transactions on Engineering Management
-Telematics and Informatics Reports
-Computers \& Education
-Computers \& Education
-Computers \& Education
-Computers \& Education
-Computers \& Education
-Computers \& Education
-Computers \& Education
-Entertainment Computing
-2025 IEEE Engineering Education World Conference (EDUNINE)
+Computers in Human Behavior Reports
+Computers in Human Behavior Reports
+iScience
+iScience
+Dermatologic Clinics
+Tourism Management Perspectives
+Development and Learning in Organizations: An International Journal
+2025 IEEE 3rd International Conference on Image Processing and Computer Applications (ICIPCA)
 New Horizons in Artificial Intelligence in Libraries
-2025 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)
-2025 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)
+Mayo Clinic Proceedings: Digital Health
+IEEE Journal on Selected Areas in Communications
+2023 12th Mediterranean Conference on Embedded Computing (MECO)
+2024 IEEE Frontiers in Education Conference (FIE)
+2024 IEEE Frontiers in Education Conference (FIE)
+IEEE Internet Computing
+2024 International Conference on Artificial Intelligence, Big Data, Computing and Data Communication Systems (icABCD)
+Sensors and Actuators A: Physical
+2025 International Conference on Intelligent Computing and Control Systems (ICICCS)
+Journal of Intelligent Construction
 
 # ordenamiento por bucketsort
 2023 12th Mediterranean Conference on Embedded Computing (MECO)
@@ -1636,7 +1906,6 @@ New Horizons in Artificial Intelligence in Libraries
 2024 16th International Conference on Intelligent Human-Machine Systems and Cybernetics (IHMSC)
 2024 16th International Conference on Intelligent Human-Machine Systems and Cybernetics (IHMSC)
 2024 17th International Symposium on Computational Intelligence and Design (ISCID)
-2024 17th International Symposium on Computational Intelligence and Design (ISCID)
 2024 1st International Conference on Advances in Computing, Communication and Networking (ICAC2N)
 2024 23rd International Symposium INFOTEH-JAHORINA (INFOTEH)
 2024 28th International Conference Information Visualisation (IV)
@@ -1645,7 +1914,6 @@ New Horizons in Artificial Intelligence in Libraries
 2024 2nd International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS)
 2024 2nd World Conference on Communication \& Computing (WCONF)
 2024 36th International Conference on Software Engineering Education and Training (CSEE\&T)
-2024 3rd International Conference on Artificial Intelligence and Software Engineering (ICAISE)
 2024 3rd International Conference on Creative Communication and Innovative Technology (ICCIT)
 2024 3rd International Conference on Image Processing and Media Computing (ICIPMC)
 2024 47th MIPRO ICT and Electronics Convention (MIPRO)
@@ -1661,7 +1929,6 @@ New Horizons in Artificial Intelligence in Libraries
 2024 5th International Conference on Artificial Intelligence and Computer Engineering (ICAICE)
 2024 5th International Conference on Industrial Engineering and Artificial Intelligence (IEAI)
 2024 5th International Conference on Intelligent Communication Technologies and Virtual Mobile Networks (ICICV)
-2024 5th International Conference on Intelligent Design (ICID)
 2024 5th International Conference on Intelligent Design (ICID)
 2024 7th International Conference on Internet Applications, Protocols, and Services (NETAPPS)
 2024 9th International Conference on Computer Science and Engineering (UBMK)
@@ -1683,12 +1950,9 @@ New Horizons in Artificial Intelligence in Libraries
 2024 IEEE 7th International Conference and Workshop Óbuda on Electrical and Power Engineering (CANDO-EPE)
 2024 IEEE 8th Conference on Energy Internet and Energy System Integration (EI2)
 2024 IEEE 8th Conference on Energy Internet and Energy System Integration (EI2)
-2024 IEEE 8th International Conference on Vision, Image and Signal Processing (ICVISP)
-2024 IEEE 9th International Conference for Convergence in Technology (I2CT)
 2024 IEEE Digital Education and MOOCS Conference (DEMOcon)
 2024 IEEE Frontiers in Education Conference (FIE)
 2024 IEEE Frontiers in Education Conference (FIE)
-2024 IEEE Global Engineering Education Conference (EDUCON)
 2024 IEEE Global Engineering Education Conference (EDUCON)
 2024 IEEE Global Engineering Education Conference (EDUCON)
 2024 IEEE International Conference on Artificial Intelligence Testing (AITest)
@@ -1703,7 +1967,6 @@ New Horizons in Artificial Intelligence in Libraries
 2024 IEEE SmartBlock4Africa
 2024 IEEE World Engineering Education Conference (EDUNINE)
 2024 IEEE World Engineering Education Conference (EDUNINE)
-2024 IEEE/ACIS 22nd International Conference on Software Engineering Research, Management and Applications (SERA)
 2024 IEEE/ACM 46th International Conference on Software Engineering (ICSE)
 2024 IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT)
 2024 International Automatic Control Conference (CACS)
@@ -1712,14 +1975,12 @@ New Horizons in Artificial Intelligence in Libraries
 2024 International Conference on Artificial Intelligence, Big Data, Computing and Data Communication Systems (icABCD)
 2024 International Conference on Artificial Intelligence, Deep Learning and Neural Networks (AIDLNN)
 2024 International Conference on Computational Intelligence for Green and Sustainable Technologies (ICCIGST)
-2024 International Conference on Computers, Information Processing and Advanced Education (CIPAE)
 2024 International Conference on Computing and Data Science (ICCDS)
 2024 International Conference on Decision Aid Sciences and Applications (DASA)
 2024 International Conference on Decision Aid Sciences and Applications (DASA)
 2024 International Conference on Decision Aid Sciences and Applications (DASA)
 2024 International Conference on Emerging Technologies and Innovation for Sustainability (EmergIN)
 2024 International Conference on Engineering \& Computing Technologies (ICECT)
-2024 International Conference on Graphics and Interaction (ICGI)
 2024 International Conference on ICT for Smart Society (ICISS)
 2024 International Conference on Informatics Education and Computer Technology Applications (IECA)
 2024 International Conference on Informatics, Multimedia, Cyber and Information System (ICIMCIS)
@@ -1729,7 +1990,6 @@ New Horizons in Artificial Intelligence in Libraries
 2024 International Conference on Sustainable Energy: Energy Transition and Net-Zero Climate Future (ICUE)
 2024 International Symposium on Educational Technology (ISET)
 2024 International Symposium on Networks, Computers and Communications (ISNCC)
-2024 Ninth International Conference on Informatics and Computing (ICIC)
 2024 Portland International Conference on Management of Engineering and Technology (PICMET)
 2024 Research, Invention, and Innovation Congress: Innovative Electricals and Electronics (RI2C)
 2024 Tenth International Conference on eDemocracy \& eGovernment (ICEDEG)
@@ -1749,8 +2009,20 @@ New Horizons in Artificial Intelligence in Libraries
 2025 2nd International Conference on Informatics Education and Computer Technology Applications (IECA)
 2025 37th Conference of Open Innovations Association (FRUCT)
 2025 3rd International Conference on Data Science and Information System (ICDSIS)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
 2025 5th International Conference on Innovative Research in Applied Science, Engineering and Technology (IRASET)
-2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
 2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
 2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
 2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
@@ -1779,48 +2051,57 @@ New Horizons in Artificial Intelligence in Libraries
 2025 IEEE International Conference on Engineering, Technology, and Innovation (ICE/ITMC)
 2025 International Conference on Computational, Communication and Information Technology (ICCCIT)
 2025 International Conference on Intelligent Computing and Control Systems (ICICCS)
-2025 International Conference on Pervasive Computational Technologies (ICPCT)
 2025 International Conference on Smart Computing, IoT and Machine Learning (SIML)
 2025 International Conference on Smart Learning Courses (SCME)
 2025 International Symposium on Educational Technology (ISET)
 2025 International Symposium on Educational Technology (ISET)
 2025 International Symposium on Educational Technology (ISET)
 2025 International Symposium on Educational Technology (ISET)
-2025 International Symposium on Educational Technology (ISET)
-2025 Joint Urban Remote Sensing Event (JURSE)
 2025 MIPRO 48th ICT and Electronics Convention
 2025 MIPRO 48th ICT and Electronics Convention
 2025 Seventh International Symposium on Computer, Consumer and Control (IS3C)
 2nd International Conference on Mechatronic Automation and Electrical Engineering (ICMAEE 2024)
 9th International Conference on New Energy and Future Energy Systems (NEFES 2024)
-CMES - Computer Modeling in Engineering and Sciences
-Communications in Transportation Research
+Acta Physico-Chimica Sinica
+Acta Psychologica
+Ain Shams Engineering Journal
+Annals of Tourism Research
+Applied Soft Computing
+Aquacultural Engineering
+Arthroscopy: The Journal of Arthroscopic \& Related Surgery
+Asia-Pacific Journal of Ophthalmology
+Asian Journal of Psychiatry
+Brazilian Journal of Otorhinolaryngology
+Chinese Journal of Aeronautics
+Clinical Simulation in Nursing
+Clinical Simulation in Nursing
+Clinical Simulation in Nursing
 Computer
+Computer Methods in Applied Mechanics and Engineering
 Computers \& Education
 Computers \& Education
-Computers \& Education
-Computers \& Education
-Computers \& Education
-Computers \& Education
-Computers \& Education
-Computers \& Education: X Reality
+Computers and Education Open
 Computers and Education: Artificial Intelligence
 Computers and Education: Artificial Intelligence
 Computers and Education: Artificial Intelligence
 Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers in Human Behavior
+Computers and Electronics in Agriculture
+Computers in Human Behavior Reports
+Computers in Human Behavior Reports
 Computers in Human Behavior: Artificial Humans
-Decision Analytics Journal
-Educational Research Review
-Encyclopedia of Libraries, Librarianship, and Information Science (First Edition)
-Encyclopedia of Libraries, Librarianship, and Information Science (First Edition)
-Entertainment Computing
+Current Opinion in Psychology
+Decision Support Systems
+Dentistry Review
+Dermatologic Clinics
+Development and Learning in Organizations: An International Journal
+Digestive and Liver Disease
+Displays
+Electronic Commerce Research and Applications
+Energy and AI
+Engineering Applications of Artificial Intelligence
+Epilepsy \& Behavior
+Foresight
+Gastroenterology
 Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
 Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
 Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
@@ -1868,6 +2149,7 @@ IEEE Engineering Management Review
 IEEE Engineering Management Review
 IEEE Engineering Management Review
 IEEE Geoscience and Remote Sensing Letters
+IEEE INFOCOM 2025 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)
 IEEE Industrial Electronics Magazine
 IEEE Intelligent Systems
 IEEE Internet Computing
@@ -1877,7 +2159,6 @@ IEEE Internet of Things Journal
 IEEE Internet of Things Journal
 IEEE Internet of Things Journal
 IEEE Internet of Things Magazine
-IEEE Journal of Biomedical and Health Informatics
 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 IEEE Journal on Selected Areas in Communications
@@ -1903,7 +2184,6 @@ IEEE Transactions on Learning Technologies
 IEEE Vehicular Technology Magazine
 IEEE Vehicular Technology Magazine
 IEEE Vehicular Technology Magazine
-IFAC-PapersOnLine
 IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium
 IT Professional
 IT Professional
@@ -1912,29 +2192,73 @@ IT Professional
 IT Professional
 IT Professional
 IT Professional
+Information Technology \& People
+Information and Learning Sciences
 Inside Cyber: How AI, 5G, IoT, and Quantum Computing Will Transform Privacy and Our Security
-International Journal of Child-Computer Interaction
-International Journal of Educational Research
-International Journal of Online Pedagogy and Course Design
+Integrative Medicine Research
+Integrative Medicine Research
+International Journal of Hospitality Management
+International Journal of Hospitality Management
+International Journal of Knowledge Management
+International Journal of Nursing Sciences
+International Journal of Nursing Studies
+International Journal of Oral and Maxillofacial Surgery
+International Journal of Oral and Maxillofacial Surgery
+iScience
+iScience
+JACC: Advances
+JMIR Medical Education
+Journal of Accounting Education
+Journal of Adolescent Health
+Journal of Building Engineering
+Journal of Business Research
+Journal of Cleaner Production
+Journal of Innovation \& Knowledge
+Journal of Intelligent Construction
+Journal of Manufacturing Processes
+Journal of Professional Nursing
+Journal of Vascular Surgery
 Journal of Web Engineering
-Learning and Instruction
+Journal of the Society for Cardiovascular Angiography \& Interventions
+Labour Economics
+Learning and Motivation
+Mayo Clinic Proceedings: Digital Health
+Modern Pathology
 New Horizons in Artificial Intelligence in Libraries
 Nurse Education Today
-Nurse Education Today
+Nurse Education in Practice
+Practical Radiation Oncology
+Procedia CIRP
+Procedia Computer Science
+Procedia Computer Science
+Review of International Business and Strategy
 Securing Microsoft Azure OpenAI
-Social Sciences \& Humanities Open
-Social Sciences \& Humanities Open
-Social Sciences \& Humanities Open
+Sensors and Actuators A: Physical
+Soil Advances
 SoutheastCon 2024
+Surgery
 System
-Technovation
+System
+Teaching and Learning in Nursing
+Teaching and Teacher Education
+Teaching and Teacher Education
+Technology in Society
+Technology in Society
 Telematics and Informatics Reports
+The Innovation
 The International Journal of Management Education
-The Internet and Higher Education
-Thinking Skills and Creativity
-Thinking Skills and Creativity
-Thinking Skills and Creativity
-Thinking Skills and Creativity
+The Journal of Academic Librarianship
+The Journal of Academic Librarianship
+The Journal of Academic Librarianship
+The Lancet Digital Health
+Thermal Science and Engineering Progress
+Tourism Management
+Tourism Management Perspectives
+Value in Health
+Value in Health
+Value in Health
+World Patent Information
+World Patent Information
 
 # ordenamiento por quicksort
 2023 12th Mediterranean Conference on Embedded Computing (MECO)
@@ -1959,7 +2283,6 @@ Thinking Skills and Creativity
 2024 16th International Conference on Intelligent Human-Machine Systems and Cybernetics (IHMSC)
 2024 16th International Conference on Intelligent Human-Machine Systems and Cybernetics (IHMSC)
 2024 17th International Symposium on Computational Intelligence and Design (ISCID)
-2024 17th International Symposium on Computational Intelligence and Design (ISCID)
 2024 1st International Conference on Advances in Computing, Communication and Networking (ICAC2N)
 2024 23rd International Symposium INFOTEH-JAHORINA (INFOTEH)
 2024 28th International Conference Information Visualisation (IV)
@@ -1968,7 +2291,6 @@ Thinking Skills and Creativity
 2024 2nd International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS)
 2024 2nd World Conference on Communication \& Computing (WCONF)
 2024 36th International Conference on Software Engineering Education and Training (CSEE\&T)
-2024 3rd International Conference on Artificial Intelligence and Software Engineering (ICAISE)
 2024 3rd International Conference on Creative Communication and Innovative Technology (ICCIT)
 2024 3rd International Conference on Image Processing and Media Computing (ICIPMC)
 2024 47th MIPRO ICT and Electronics Convention (MIPRO)
@@ -1984,7 +2306,6 @@ Thinking Skills and Creativity
 2024 5th International Conference on Artificial Intelligence and Computer Engineering (ICAICE)
 2024 5th International Conference on Industrial Engineering and Artificial Intelligence (IEAI)
 2024 5th International Conference on Intelligent Communication Technologies and Virtual Mobile Networks (ICICV)
-2024 5th International Conference on Intelligent Design (ICID)
 2024 5th International Conference on Intelligent Design (ICID)
 2024 7th International Conference on Internet Applications, Protocols, and Services (NETAPPS)
 2024 9th International Conference on Computer Science and Engineering (UBMK)
@@ -2006,12 +2327,9 @@ Thinking Skills and Creativity
 2024 IEEE 7th International Conference and Workshop Óbuda on Electrical and Power Engineering (CANDO-EPE)
 2024 IEEE 8th Conference on Energy Internet and Energy System Integration (EI2)
 2024 IEEE 8th Conference on Energy Internet and Energy System Integration (EI2)
-2024 IEEE 8th International Conference on Vision, Image and Signal Processing (ICVISP)
-2024 IEEE 9th International Conference for Convergence in Technology (I2CT)
 2024 IEEE Digital Education and MOOCS Conference (DEMOcon)
 2024 IEEE Frontiers in Education Conference (FIE)
 2024 IEEE Frontiers in Education Conference (FIE)
-2024 IEEE Global Engineering Education Conference (EDUCON)
 2024 IEEE Global Engineering Education Conference (EDUCON)
 2024 IEEE Global Engineering Education Conference (EDUCON)
 2024 IEEE International Conference on Artificial Intelligence Testing (AITest)
@@ -2026,7 +2344,6 @@ Thinking Skills and Creativity
 2024 IEEE SmartBlock4Africa
 2024 IEEE World Engineering Education Conference (EDUNINE)
 2024 IEEE World Engineering Education Conference (EDUNINE)
-2024 IEEE/ACIS 22nd International Conference on Software Engineering Research, Management and Applications (SERA)
 2024 IEEE/ACM 46th International Conference on Software Engineering (ICSE)
 2024 IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT)
 2024 International Automatic Control Conference (CACS)
@@ -2035,14 +2352,12 @@ Thinking Skills and Creativity
 2024 International Conference on Artificial Intelligence, Big Data, Computing and Data Communication Systems (icABCD)
 2024 International Conference on Artificial Intelligence, Deep Learning and Neural Networks (AIDLNN)
 2024 International Conference on Computational Intelligence for Green and Sustainable Technologies (ICCIGST)
-2024 International Conference on Computers, Information Processing and Advanced Education (CIPAE)
 2024 International Conference on Computing and Data Science (ICCDS)
 2024 International Conference on Decision Aid Sciences and Applications (DASA)
 2024 International Conference on Decision Aid Sciences and Applications (DASA)
 2024 International Conference on Decision Aid Sciences and Applications (DASA)
 2024 International Conference on Emerging Technologies and Innovation for Sustainability (EmergIN)
 2024 International Conference on Engineering \& Computing Technologies (ICECT)
-2024 International Conference on Graphics and Interaction (ICGI)
 2024 International Conference on ICT for Smart Society (ICISS)
 2024 International Conference on Informatics Education and Computer Technology Applications (IECA)
 2024 International Conference on Informatics, Multimedia, Cyber and Information System (ICIMCIS)
@@ -2052,7 +2367,6 @@ Thinking Skills and Creativity
 2024 International Conference on Sustainable Energy: Energy Transition and Net-Zero Climate Future (ICUE)
 2024 International Symposium on Educational Technology (ISET)
 2024 International Symposium on Networks, Computers and Communications (ISNCC)
-2024 Ninth International Conference on Informatics and Computing (ICIC)
 2024 Portland International Conference on Management of Engineering and Technology (PICMET)
 2024 Research, Invention, and Innovation Congress: Innovative Electricals and Electronics (RI2C)
 2024 Tenth International Conference on eDemocracy \& eGovernment (ICEDEG)
@@ -2072,8 +2386,20 @@ Thinking Skills and Creativity
 2025 2nd International Conference on Informatics Education and Computer Technology Applications (IECA)
 2025 37th Conference of Open Innovations Association (FRUCT)
 2025 3rd International Conference on Data Science and Information System (ICDSIS)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
 2025 5th International Conference on Innovative Research in Applied Science, Engineering and Technology (IRASET)
-2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
 2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
 2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
 2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
@@ -2102,48 +2428,57 @@ Thinking Skills and Creativity
 2025 IEEE International Conference on Engineering, Technology, and Innovation (ICE/ITMC)
 2025 International Conference on Computational, Communication and Information Technology (ICCCIT)
 2025 International Conference on Intelligent Computing and Control Systems (ICICCS)
-2025 International Conference on Pervasive Computational Technologies (ICPCT)
 2025 International Conference on Smart Computing, IoT and Machine Learning (SIML)
 2025 International Conference on Smart Learning Courses (SCME)
 2025 International Symposium on Educational Technology (ISET)
 2025 International Symposium on Educational Technology (ISET)
 2025 International Symposium on Educational Technology (ISET)
 2025 International Symposium on Educational Technology (ISET)
-2025 International Symposium on Educational Technology (ISET)
-2025 Joint Urban Remote Sensing Event (JURSE)
 2025 MIPRO 48th ICT and Electronics Convention
 2025 MIPRO 48th ICT and Electronics Convention
 2025 Seventh International Symposium on Computer, Consumer and Control (IS3C)
 2nd International Conference on Mechatronic Automation and Electrical Engineering (ICMAEE 2024)
 9th International Conference on New Energy and Future Energy Systems (NEFES 2024)
-CMES - Computer Modeling in Engineering and Sciences
-Communications in Transportation Research
+Acta Physico-Chimica Sinica
+Acta Psychologica
+Ain Shams Engineering Journal
+Annals of Tourism Research
+Applied Soft Computing
+Aquacultural Engineering
+Arthroscopy: The Journal of Arthroscopic \& Related Surgery
+Asia-Pacific Journal of Ophthalmology
+Asian Journal of Psychiatry
+Brazilian Journal of Otorhinolaryngology
+Chinese Journal of Aeronautics
+Clinical Simulation in Nursing
+Clinical Simulation in Nursing
+Clinical Simulation in Nursing
 Computer
+Computer Methods in Applied Mechanics and Engineering
 Computers \& Education
 Computers \& Education
-Computers \& Education
-Computers \& Education
-Computers \& Education
-Computers \& Education
-Computers \& Education
-Computers \& Education: X Reality
+Computers and Education Open
 Computers and Education: Artificial Intelligence
 Computers and Education: Artificial Intelligence
 Computers and Education: Artificial Intelligence
 Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers in Human Behavior
+Computers and Electronics in Agriculture
+Computers in Human Behavior Reports
+Computers in Human Behavior Reports
 Computers in Human Behavior: Artificial Humans
-Decision Analytics Journal
-Educational Research Review
-Encyclopedia of Libraries, Librarianship, and Information Science (First Edition)
-Encyclopedia of Libraries, Librarianship, and Information Science (First Edition)
-Entertainment Computing
+Current Opinion in Psychology
+Decision Support Systems
+Dentistry Review
+Dermatologic Clinics
+Development and Learning in Organizations: An International Journal
+Digestive and Liver Disease
+Displays
+Electronic Commerce Research and Applications
+Energy and AI
+Engineering Applications of Artificial Intelligence
+Epilepsy \& Behavior
+Foresight
+Gastroenterology
 Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
 Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
 Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
@@ -2191,6 +2526,7 @@ IEEE Engineering Management Review
 IEEE Engineering Management Review
 IEEE Engineering Management Review
 IEEE Geoscience and Remote Sensing Letters
+IEEE INFOCOM 2025 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)
 IEEE Industrial Electronics Magazine
 IEEE Intelligent Systems
 IEEE Internet Computing
@@ -2200,7 +2536,6 @@ IEEE Internet of Things Journal
 IEEE Internet of Things Journal
 IEEE Internet of Things Journal
 IEEE Internet of Things Magazine
-IEEE Journal of Biomedical and Health Informatics
 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 IEEE Journal on Selected Areas in Communications
@@ -2226,7 +2561,6 @@ IEEE Transactions on Learning Technologies
 IEEE Vehicular Technology Magazine
 IEEE Vehicular Technology Magazine
 IEEE Vehicular Technology Magazine
-IFAC-PapersOnLine
 IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium
 IT Professional
 IT Professional
@@ -2235,29 +2569,73 @@ IT Professional
 IT Professional
 IT Professional
 IT Professional
+Information Technology \& People
+Information and Learning Sciences
 Inside Cyber: How AI, 5G, IoT, and Quantum Computing Will Transform Privacy and Our Security
-International Journal of Child-Computer Interaction
-International Journal of Educational Research
-International Journal of Online Pedagogy and Course Design
+Integrative Medicine Research
+Integrative Medicine Research
+International Journal of Hospitality Management
+International Journal of Hospitality Management
+International Journal of Knowledge Management
+International Journal of Nursing Sciences
+International Journal of Nursing Studies
+International Journal of Oral and Maxillofacial Surgery
+International Journal of Oral and Maxillofacial Surgery
+JACC: Advances
+JMIR Medical Education
+Journal of Accounting Education
+Journal of Adolescent Health
+Journal of Building Engineering
+Journal of Business Research
+Journal of Cleaner Production
+Journal of Innovation \& Knowledge
+Journal of Intelligent Construction
+Journal of Manufacturing Processes
+Journal of Professional Nursing
+Journal of Vascular Surgery
 Journal of Web Engineering
-Learning and Instruction
+Journal of the Society for Cardiovascular Angiography \& Interventions
+Labour Economics
+Learning and Motivation
+Mayo Clinic Proceedings: Digital Health
+Modern Pathology
 New Horizons in Artificial Intelligence in Libraries
 Nurse Education Today
-Nurse Education Today
+Nurse Education in Practice
+Practical Radiation Oncology
+Procedia CIRP
+Procedia Computer Science
+Procedia Computer Science
+Review of International Business and Strategy
 Securing Microsoft Azure OpenAI
-Social Sciences \& Humanities Open
-Social Sciences \& Humanities Open
-Social Sciences \& Humanities Open
+Sensors and Actuators A: Physical
+Soil Advances
 SoutheastCon 2024
+Surgery
 System
-Technovation
+System
+Teaching and Learning in Nursing
+Teaching and Teacher Education
+Teaching and Teacher Education
+Technology in Society
+Technology in Society
 Telematics and Informatics Reports
+The Innovation
 The International Journal of Management Education
-The Internet and Higher Education
-Thinking Skills and Creativity
-Thinking Skills and Creativity
-Thinking Skills and Creativity
-Thinking Skills and Creativity
+The Journal of Academic Librarianship
+The Journal of Academic Librarianship
+The Journal of Academic Librarianship
+The Lancet Digital Health
+Thermal Science and Engineering Progress
+Tourism Management
+Tourism Management Perspectives
+Value in Health
+Value in Health
+Value in Health
+World Patent Information
+World Patent Information
+iScience
+iScience
 
 # ordenamiento por heapsort
 2023 12th Mediterranean Conference on Embedded Computing (MECO)
@@ -2282,7 +2660,6 @@ Thinking Skills and Creativity
 2024 16th International Conference on Intelligent Human-Machine Systems and Cybernetics (IHMSC)
 2024 16th International Conference on Intelligent Human-Machine Systems and Cybernetics (IHMSC)
 2024 17th International Symposium on Computational Intelligence and Design (ISCID)
-2024 17th International Symposium on Computational Intelligence and Design (ISCID)
 2024 1st International Conference on Advances in Computing, Communication and Networking (ICAC2N)
 2024 23rd International Symposium INFOTEH-JAHORINA (INFOTEH)
 2024 28th International Conference Information Visualisation (IV)
@@ -2291,7 +2668,6 @@ Thinking Skills and Creativity
 2024 2nd International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS)
 2024 2nd World Conference on Communication \& Computing (WCONF)
 2024 36th International Conference on Software Engineering Education and Training (CSEE\&T)
-2024 3rd International Conference on Artificial Intelligence and Software Engineering (ICAISE)
 2024 3rd International Conference on Creative Communication and Innovative Technology (ICCIT)
 2024 3rd International Conference on Image Processing and Media Computing (ICIPMC)
 2024 47th MIPRO ICT and Electronics Convention (MIPRO)
@@ -2307,7 +2683,6 @@ Thinking Skills and Creativity
 2024 5th International Conference on Artificial Intelligence and Computer Engineering (ICAICE)
 2024 5th International Conference on Industrial Engineering and Artificial Intelligence (IEAI)
 2024 5th International Conference on Intelligent Communication Technologies and Virtual Mobile Networks (ICICV)
-2024 5th International Conference on Intelligent Design (ICID)
 2024 5th International Conference on Intelligent Design (ICID)
 2024 7th International Conference on Internet Applications, Protocols, and Services (NETAPPS)
 2024 9th International Conference on Computer Science and Engineering (UBMK)
@@ -2329,12 +2704,9 @@ Thinking Skills and Creativity
 2024 IEEE 7th International Conference and Workshop Óbuda on Electrical and Power Engineering (CANDO-EPE)
 2024 IEEE 8th Conference on Energy Internet and Energy System Integration (EI2)
 2024 IEEE 8th Conference on Energy Internet and Energy System Integration (EI2)
-2024 IEEE 8th International Conference on Vision, Image and Signal Processing (ICVISP)
-2024 IEEE 9th International Conference for Convergence in Technology (I2CT)
 2024 IEEE Digital Education and MOOCS Conference (DEMOcon)
 2024 IEEE Frontiers in Education Conference (FIE)
 2024 IEEE Frontiers in Education Conference (FIE)
-2024 IEEE Global Engineering Education Conference (EDUCON)
 2024 IEEE Global Engineering Education Conference (EDUCON)
 2024 IEEE Global Engineering Education Conference (EDUCON)
 2024 IEEE International Conference on Artificial Intelligence Testing (AITest)
@@ -2349,7 +2721,6 @@ Thinking Skills and Creativity
 2024 IEEE SmartBlock4Africa
 2024 IEEE World Engineering Education Conference (EDUNINE)
 2024 IEEE World Engineering Education Conference (EDUNINE)
-2024 IEEE/ACIS 22nd International Conference on Software Engineering Research, Management and Applications (SERA)
 2024 IEEE/ACM 46th International Conference on Software Engineering (ICSE)
 2024 IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT)
 2024 International Automatic Control Conference (CACS)
@@ -2358,14 +2729,12 @@ Thinking Skills and Creativity
 2024 International Conference on Artificial Intelligence, Big Data, Computing and Data Communication Systems (icABCD)
 2024 International Conference on Artificial Intelligence, Deep Learning and Neural Networks (AIDLNN)
 2024 International Conference on Computational Intelligence for Green and Sustainable Technologies (ICCIGST)
-2024 International Conference on Computers, Information Processing and Advanced Education (CIPAE)
 2024 International Conference on Computing and Data Science (ICCDS)
 2024 International Conference on Decision Aid Sciences and Applications (DASA)
 2024 International Conference on Decision Aid Sciences and Applications (DASA)
 2024 International Conference on Decision Aid Sciences and Applications (DASA)
 2024 International Conference on Emerging Technologies and Innovation for Sustainability (EmergIN)
 2024 International Conference on Engineering \& Computing Technologies (ICECT)
-2024 International Conference on Graphics and Interaction (ICGI)
 2024 International Conference on ICT for Smart Society (ICISS)
 2024 International Conference on Informatics Education and Computer Technology Applications (IECA)
 2024 International Conference on Informatics, Multimedia, Cyber and Information System (ICIMCIS)
@@ -2375,7 +2744,6 @@ Thinking Skills and Creativity
 2024 International Conference on Sustainable Energy: Energy Transition and Net-Zero Climate Future (ICUE)
 2024 International Symposium on Educational Technology (ISET)
 2024 International Symposium on Networks, Computers and Communications (ISNCC)
-2024 Ninth International Conference on Informatics and Computing (ICIC)
 2024 Portland International Conference on Management of Engineering and Technology (PICMET)
 2024 Research, Invention, and Innovation Congress: Innovative Electricals and Electronics (RI2C)
 2024 Tenth International Conference on eDemocracy \& eGovernment (ICEDEG)
@@ -2395,8 +2763,20 @@ Thinking Skills and Creativity
 2025 2nd International Conference on Informatics Education and Computer Technology Applications (IECA)
 2025 37th Conference of Open Innovations Association (FRUCT)
 2025 3rd International Conference on Data Science and Information System (ICDSIS)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
 2025 5th International Conference on Innovative Research in Applied Science, Engineering and Technology (IRASET)
-2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
 2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
 2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
 2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
@@ -2425,48 +2805,57 @@ Thinking Skills and Creativity
 2025 IEEE International Conference on Engineering, Technology, and Innovation (ICE/ITMC)
 2025 International Conference on Computational, Communication and Information Technology (ICCCIT)
 2025 International Conference on Intelligent Computing and Control Systems (ICICCS)
-2025 International Conference on Pervasive Computational Technologies (ICPCT)
 2025 International Conference on Smart Computing, IoT and Machine Learning (SIML)
 2025 International Conference on Smart Learning Courses (SCME)
 2025 International Symposium on Educational Technology (ISET)
 2025 International Symposium on Educational Technology (ISET)
 2025 International Symposium on Educational Technology (ISET)
 2025 International Symposium on Educational Technology (ISET)
-2025 International Symposium on Educational Technology (ISET)
-2025 Joint Urban Remote Sensing Event (JURSE)
 2025 MIPRO 48th ICT and Electronics Convention
 2025 MIPRO 48th ICT and Electronics Convention
 2025 Seventh International Symposium on Computer, Consumer and Control (IS3C)
 2nd International Conference on Mechatronic Automation and Electrical Engineering (ICMAEE 2024)
 9th International Conference on New Energy and Future Energy Systems (NEFES 2024)
-CMES - Computer Modeling in Engineering and Sciences
-Communications in Transportation Research
+Acta Physico-Chimica Sinica
+Acta Psychologica
+Ain Shams Engineering Journal
+Annals of Tourism Research
+Applied Soft Computing
+Aquacultural Engineering
+Arthroscopy: The Journal of Arthroscopic \& Related Surgery
+Asia-Pacific Journal of Ophthalmology
+Asian Journal of Psychiatry
+Brazilian Journal of Otorhinolaryngology
+Chinese Journal of Aeronautics
+Clinical Simulation in Nursing
+Clinical Simulation in Nursing
+Clinical Simulation in Nursing
 Computer
+Computer Methods in Applied Mechanics and Engineering
 Computers \& Education
 Computers \& Education
-Computers \& Education
-Computers \& Education
-Computers \& Education
-Computers \& Education
-Computers \& Education
-Computers \& Education: X Reality
+Computers and Education Open
 Computers and Education: Artificial Intelligence
 Computers and Education: Artificial Intelligence
 Computers and Education: Artificial Intelligence
 Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers in Human Behavior
+Computers and Electronics in Agriculture
+Computers in Human Behavior Reports
+Computers in Human Behavior Reports
 Computers in Human Behavior: Artificial Humans
-Decision Analytics Journal
-Educational Research Review
-Encyclopedia of Libraries, Librarianship, and Information Science (First Edition)
-Encyclopedia of Libraries, Librarianship, and Information Science (First Edition)
-Entertainment Computing
+Current Opinion in Psychology
+Decision Support Systems
+Dentistry Review
+Dermatologic Clinics
+Development and Learning in Organizations: An International Journal
+Digestive and Liver Disease
+Displays
+Electronic Commerce Research and Applications
+Energy and AI
+Engineering Applications of Artificial Intelligence
+Epilepsy \& Behavior
+Foresight
+Gastroenterology
 Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
 Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
 Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
@@ -2514,6 +2903,7 @@ IEEE Engineering Management Review
 IEEE Engineering Management Review
 IEEE Engineering Management Review
 IEEE Geoscience and Remote Sensing Letters
+IEEE INFOCOM 2025 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)
 IEEE Industrial Electronics Magazine
 IEEE Intelligent Systems
 IEEE Internet Computing
@@ -2523,7 +2913,6 @@ IEEE Internet of Things Journal
 IEEE Internet of Things Journal
 IEEE Internet of Things Journal
 IEEE Internet of Things Magazine
-IEEE Journal of Biomedical and Health Informatics
 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 IEEE Journal on Selected Areas in Communications
@@ -2549,7 +2938,6 @@ IEEE Transactions on Learning Technologies
 IEEE Vehicular Technology Magazine
 IEEE Vehicular Technology Magazine
 IEEE Vehicular Technology Magazine
-IFAC-PapersOnLine
 IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium
 IT Professional
 IT Professional
@@ -2558,29 +2946,73 @@ IT Professional
 IT Professional
 IT Professional
 IT Professional
+Information Technology \& People
+Information and Learning Sciences
 Inside Cyber: How AI, 5G, IoT, and Quantum Computing Will Transform Privacy and Our Security
-International Journal of Child-Computer Interaction
-International Journal of Educational Research
-International Journal of Online Pedagogy and Course Design
+Integrative Medicine Research
+Integrative Medicine Research
+International Journal of Hospitality Management
+International Journal of Hospitality Management
+International Journal of Knowledge Management
+International Journal of Nursing Sciences
+International Journal of Nursing Studies
+International Journal of Oral and Maxillofacial Surgery
+International Journal of Oral and Maxillofacial Surgery
+JACC: Advances
+JMIR Medical Education
+Journal of Accounting Education
+Journal of Adolescent Health
+Journal of Building Engineering
+Journal of Business Research
+Journal of Cleaner Production
+Journal of Innovation \& Knowledge
+Journal of Intelligent Construction
+Journal of Manufacturing Processes
+Journal of Professional Nursing
+Journal of Vascular Surgery
 Journal of Web Engineering
-Learning and Instruction
+Journal of the Society for Cardiovascular Angiography \& Interventions
+Labour Economics
+Learning and Motivation
+Mayo Clinic Proceedings: Digital Health
+Modern Pathology
 New Horizons in Artificial Intelligence in Libraries
 Nurse Education Today
-Nurse Education Today
+Nurse Education in Practice
+Practical Radiation Oncology
+Procedia CIRP
+Procedia Computer Science
+Procedia Computer Science
+Review of International Business and Strategy
 Securing Microsoft Azure OpenAI
-Social Sciences \& Humanities Open
-Social Sciences \& Humanities Open
-Social Sciences \& Humanities Open
+Sensors and Actuators A: Physical
+Soil Advances
 SoutheastCon 2024
+Surgery
 System
-Technovation
+System
+Teaching and Learning in Nursing
+Teaching and Teacher Education
+Teaching and Teacher Education
+Technology in Society
+Technology in Society
 Telematics and Informatics Reports
+The Innovation
 The International Journal of Management Education
-The Internet and Higher Education
-Thinking Skills and Creativity
-Thinking Skills and Creativity
-Thinking Skills and Creativity
-Thinking Skills and Creativity
+The Journal of Academic Librarianship
+The Journal of Academic Librarianship
+The Journal of Academic Librarianship
+The Lancet Digital Health
+Thermal Science and Engineering Progress
+Tourism Management
+Tourism Management Perspectives
+Value in Health
+Value in Health
+Value in Health
+World Patent Information
+World Patent Information
+iScience
+iScience
 
 # ordenamiento por gnomesort
 2023 12th Mediterranean Conference on Embedded Computing (MECO)
@@ -2605,7 +3037,6 @@ Thinking Skills and Creativity
 2024 16th International Conference on Intelligent Human-Machine Systems and Cybernetics (IHMSC)
 2024 16th International Conference on Intelligent Human-Machine Systems and Cybernetics (IHMSC)
 2024 17th International Symposium on Computational Intelligence and Design (ISCID)
-2024 17th International Symposium on Computational Intelligence and Design (ISCID)
 2024 1st International Conference on Advances in Computing, Communication and Networking (ICAC2N)
 2024 23rd International Symposium INFOTEH-JAHORINA (INFOTEH)
 2024 28th International Conference Information Visualisation (IV)
@@ -2614,7 +3045,6 @@ Thinking Skills and Creativity
 2024 2nd International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS)
 2024 2nd World Conference on Communication \& Computing (WCONF)
 2024 36th International Conference on Software Engineering Education and Training (CSEE\&T)
-2024 3rd International Conference on Artificial Intelligence and Software Engineering (ICAISE)
 2024 3rd International Conference on Creative Communication and Innovative Technology (ICCIT)
 2024 3rd International Conference on Image Processing and Media Computing (ICIPMC)
 2024 47th MIPRO ICT and Electronics Convention (MIPRO)
@@ -2630,7 +3060,6 @@ Thinking Skills and Creativity
 2024 5th International Conference on Artificial Intelligence and Computer Engineering (ICAICE)
 2024 5th International Conference on Industrial Engineering and Artificial Intelligence (IEAI)
 2024 5th International Conference on Intelligent Communication Technologies and Virtual Mobile Networks (ICICV)
-2024 5th International Conference on Intelligent Design (ICID)
 2024 5th International Conference on Intelligent Design (ICID)
 2024 7th International Conference on Internet Applications, Protocols, and Services (NETAPPS)
 2024 9th International Conference on Computer Science and Engineering (UBMK)
@@ -2652,12 +3081,9 @@ Thinking Skills and Creativity
 2024 IEEE 7th International Conference and Workshop Óbuda on Electrical and Power Engineering (CANDO-EPE)
 2024 IEEE 8th Conference on Energy Internet and Energy System Integration (EI2)
 2024 IEEE 8th Conference on Energy Internet and Energy System Integration (EI2)
-2024 IEEE 8th International Conference on Vision, Image and Signal Processing (ICVISP)
-2024 IEEE 9th International Conference for Convergence in Technology (I2CT)
 2024 IEEE Digital Education and MOOCS Conference (DEMOcon)
 2024 IEEE Frontiers in Education Conference (FIE)
 2024 IEEE Frontiers in Education Conference (FIE)
-2024 IEEE Global Engineering Education Conference (EDUCON)
 2024 IEEE Global Engineering Education Conference (EDUCON)
 2024 IEEE Global Engineering Education Conference (EDUCON)
 2024 IEEE International Conference on Artificial Intelligence Testing (AITest)
@@ -2672,7 +3098,6 @@ Thinking Skills and Creativity
 2024 IEEE SmartBlock4Africa
 2024 IEEE World Engineering Education Conference (EDUNINE)
 2024 IEEE World Engineering Education Conference (EDUNINE)
-2024 IEEE/ACIS 22nd International Conference on Software Engineering Research, Management and Applications (SERA)
 2024 IEEE/ACM 46th International Conference on Software Engineering (ICSE)
 2024 IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT)
 2024 International Automatic Control Conference (CACS)
@@ -2681,14 +3106,12 @@ Thinking Skills and Creativity
 2024 International Conference on Artificial Intelligence, Big Data, Computing and Data Communication Systems (icABCD)
 2024 International Conference on Artificial Intelligence, Deep Learning and Neural Networks (AIDLNN)
 2024 International Conference on Computational Intelligence for Green and Sustainable Technologies (ICCIGST)
-2024 International Conference on Computers, Information Processing and Advanced Education (CIPAE)
 2024 International Conference on Computing and Data Science (ICCDS)
 2024 International Conference on Decision Aid Sciences and Applications (DASA)
 2024 International Conference on Decision Aid Sciences and Applications (DASA)
 2024 International Conference on Decision Aid Sciences and Applications (DASA)
 2024 International Conference on Emerging Technologies and Innovation for Sustainability (EmergIN)
 2024 International Conference on Engineering \& Computing Technologies (ICECT)
-2024 International Conference on Graphics and Interaction (ICGI)
 2024 International Conference on ICT for Smart Society (ICISS)
 2024 International Conference on Informatics Education and Computer Technology Applications (IECA)
 2024 International Conference on Informatics, Multimedia, Cyber and Information System (ICIMCIS)
@@ -2698,7 +3121,6 @@ Thinking Skills and Creativity
 2024 International Conference on Sustainable Energy: Energy Transition and Net-Zero Climate Future (ICUE)
 2024 International Symposium on Educational Technology (ISET)
 2024 International Symposium on Networks, Computers and Communications (ISNCC)
-2024 Ninth International Conference on Informatics and Computing (ICIC)
 2024 Portland International Conference on Management of Engineering and Technology (PICMET)
 2024 Research, Invention, and Innovation Congress: Innovative Electricals and Electronics (RI2C)
 2024 Tenth International Conference on eDemocracy \& eGovernment (ICEDEG)
@@ -2718,8 +3140,20 @@ Thinking Skills and Creativity
 2025 2nd International Conference on Informatics Education and Computer Technology Applications (IECA)
 2025 37th Conference of Open Innovations Association (FRUCT)
 2025 3rd International Conference on Data Science and Information System (ICDSIS)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
 2025 5th International Conference on Innovative Research in Applied Science, Engineering and Technology (IRASET)
-2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
 2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
 2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
 2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
@@ -2748,48 +3182,57 @@ Thinking Skills and Creativity
 2025 IEEE International Conference on Engineering, Technology, and Innovation (ICE/ITMC)
 2025 International Conference on Computational, Communication and Information Technology (ICCCIT)
 2025 International Conference on Intelligent Computing and Control Systems (ICICCS)
-2025 International Conference on Pervasive Computational Technologies (ICPCT)
 2025 International Conference on Smart Computing, IoT and Machine Learning (SIML)
 2025 International Conference on Smart Learning Courses (SCME)
 2025 International Symposium on Educational Technology (ISET)
 2025 International Symposium on Educational Technology (ISET)
 2025 International Symposium on Educational Technology (ISET)
 2025 International Symposium on Educational Technology (ISET)
-2025 International Symposium on Educational Technology (ISET)
-2025 Joint Urban Remote Sensing Event (JURSE)
 2025 MIPRO 48th ICT and Electronics Convention
 2025 MIPRO 48th ICT and Electronics Convention
 2025 Seventh International Symposium on Computer, Consumer and Control (IS3C)
 2nd International Conference on Mechatronic Automation and Electrical Engineering (ICMAEE 2024)
 9th International Conference on New Energy and Future Energy Systems (NEFES 2024)
-CMES - Computer Modeling in Engineering and Sciences
-Communications in Transportation Research
+Acta Physico-Chimica Sinica
+Acta Psychologica
+Ain Shams Engineering Journal
+Annals of Tourism Research
+Applied Soft Computing
+Aquacultural Engineering
+Arthroscopy: The Journal of Arthroscopic \& Related Surgery
+Asia-Pacific Journal of Ophthalmology
+Asian Journal of Psychiatry
+Brazilian Journal of Otorhinolaryngology
+Chinese Journal of Aeronautics
+Clinical Simulation in Nursing
+Clinical Simulation in Nursing
+Clinical Simulation in Nursing
 Computer
+Computer Methods in Applied Mechanics and Engineering
 Computers \& Education
 Computers \& Education
-Computers \& Education
-Computers \& Education
-Computers \& Education
-Computers \& Education
-Computers \& Education
-Computers \& Education: X Reality
+Computers and Education Open
 Computers and Education: Artificial Intelligence
 Computers and Education: Artificial Intelligence
 Computers and Education: Artificial Intelligence
 Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers in Human Behavior
+Computers and Electronics in Agriculture
+Computers in Human Behavior Reports
+Computers in Human Behavior Reports
 Computers in Human Behavior: Artificial Humans
-Decision Analytics Journal
-Educational Research Review
-Encyclopedia of Libraries, Librarianship, and Information Science (First Edition)
-Encyclopedia of Libraries, Librarianship, and Information Science (First Edition)
-Entertainment Computing
+Current Opinion in Psychology
+Decision Support Systems
+Dentistry Review
+Dermatologic Clinics
+Development and Learning in Organizations: An International Journal
+Digestive and Liver Disease
+Displays
+Electronic Commerce Research and Applications
+Energy and AI
+Engineering Applications of Artificial Intelligence
+Epilepsy \& Behavior
+Foresight
+Gastroenterology
 Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
 Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
 Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
@@ -2837,6 +3280,7 @@ IEEE Engineering Management Review
 IEEE Engineering Management Review
 IEEE Engineering Management Review
 IEEE Geoscience and Remote Sensing Letters
+IEEE INFOCOM 2025 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)
 IEEE Industrial Electronics Magazine
 IEEE Intelligent Systems
 IEEE Internet Computing
@@ -2846,7 +3290,6 @@ IEEE Internet of Things Journal
 IEEE Internet of Things Journal
 IEEE Internet of Things Journal
 IEEE Internet of Things Magazine
-IEEE Journal of Biomedical and Health Informatics
 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 IEEE Journal on Selected Areas in Communications
@@ -2872,7 +3315,6 @@ IEEE Transactions on Learning Technologies
 IEEE Vehicular Technology Magazine
 IEEE Vehicular Technology Magazine
 IEEE Vehicular Technology Magazine
-IFAC-PapersOnLine
 IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium
 IT Professional
 IT Professional
@@ -2881,29 +3323,73 @@ IT Professional
 IT Professional
 IT Professional
 IT Professional
+Information Technology \& People
+Information and Learning Sciences
 Inside Cyber: How AI, 5G, IoT, and Quantum Computing Will Transform Privacy and Our Security
-International Journal of Child-Computer Interaction
-International Journal of Educational Research
-International Journal of Online Pedagogy and Course Design
+Integrative Medicine Research
+Integrative Medicine Research
+International Journal of Hospitality Management
+International Journal of Hospitality Management
+International Journal of Knowledge Management
+International Journal of Nursing Sciences
+International Journal of Nursing Studies
+International Journal of Oral and Maxillofacial Surgery
+International Journal of Oral and Maxillofacial Surgery
+JACC: Advances
+JMIR Medical Education
+Journal of Accounting Education
+Journal of Adolescent Health
+Journal of Building Engineering
+Journal of Business Research
+Journal of Cleaner Production
+Journal of Innovation \& Knowledge
+Journal of Intelligent Construction
+Journal of Manufacturing Processes
+Journal of Professional Nursing
+Journal of Vascular Surgery
 Journal of Web Engineering
-Learning and Instruction
+Journal of the Society for Cardiovascular Angiography \& Interventions
+Labour Economics
+Learning and Motivation
+Mayo Clinic Proceedings: Digital Health
+Modern Pathology
 New Horizons in Artificial Intelligence in Libraries
 Nurse Education Today
-Nurse Education Today
+Nurse Education in Practice
+Practical Radiation Oncology
+Procedia CIRP
+Procedia Computer Science
+Procedia Computer Science
+Review of International Business and Strategy
 Securing Microsoft Azure OpenAI
-Social Sciences \& Humanities Open
-Social Sciences \& Humanities Open
-Social Sciences \& Humanities Open
+Sensors and Actuators A: Physical
+Soil Advances
 SoutheastCon 2024
+Surgery
 System
-Technovation
+System
+Teaching and Learning in Nursing
+Teaching and Teacher Education
+Teaching and Teacher Education
+Technology in Society
+Technology in Society
 Telematics and Informatics Reports
+The Innovation
 The International Journal of Management Education
-The Internet and Higher Education
-Thinking Skills and Creativity
-Thinking Skills and Creativity
-Thinking Skills and Creativity
-Thinking Skills and Creativity
+The Journal of Academic Librarianship
+The Journal of Academic Librarianship
+The Journal of Academic Librarianship
+The Lancet Digital Health
+Thermal Science and Engineering Progress
+Tourism Management
+Tourism Management Perspectives
+Value in Health
+Value in Health
+Value in Health
+World Patent Information
+World Patent Information
+iScience
+iScience
 
 # ordenamiento por binaryInsertionsort
 2023 12th Mediterranean Conference on Embedded Computing (MECO)
@@ -2928,7 +3414,6 @@ Thinking Skills and Creativity
 2024 16th International Conference on Intelligent Human-Machine Systems and Cybernetics (IHMSC)
 2024 16th International Conference on Intelligent Human-Machine Systems and Cybernetics (IHMSC)
 2024 17th International Symposium on Computational Intelligence and Design (ISCID)
-2024 17th International Symposium on Computational Intelligence and Design (ISCID)
 2024 1st International Conference on Advances in Computing, Communication and Networking (ICAC2N)
 2024 23rd International Symposium INFOTEH-JAHORINA (INFOTEH)
 2024 28th International Conference Information Visualisation (IV)
@@ -2937,7 +3422,6 @@ Thinking Skills and Creativity
 2024 2nd International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS)
 2024 2nd World Conference on Communication \& Computing (WCONF)
 2024 36th International Conference on Software Engineering Education and Training (CSEE\&T)
-2024 3rd International Conference on Artificial Intelligence and Software Engineering (ICAISE)
 2024 3rd International Conference on Creative Communication and Innovative Technology (ICCIT)
 2024 3rd International Conference on Image Processing and Media Computing (ICIPMC)
 2024 47th MIPRO ICT and Electronics Convention (MIPRO)
@@ -2953,7 +3437,6 @@ Thinking Skills and Creativity
 2024 5th International Conference on Artificial Intelligence and Computer Engineering (ICAICE)
 2024 5th International Conference on Industrial Engineering and Artificial Intelligence (IEAI)
 2024 5th International Conference on Intelligent Communication Technologies and Virtual Mobile Networks (ICICV)
-2024 5th International Conference on Intelligent Design (ICID)
 2024 5th International Conference on Intelligent Design (ICID)
 2024 7th International Conference on Internet Applications, Protocols, and Services (NETAPPS)
 2024 9th International Conference on Computer Science and Engineering (UBMK)
@@ -2975,12 +3458,9 @@ Thinking Skills and Creativity
 2024 IEEE 7th International Conference and Workshop Óbuda on Electrical and Power Engineering (CANDO-EPE)
 2024 IEEE 8th Conference on Energy Internet and Energy System Integration (EI2)
 2024 IEEE 8th Conference on Energy Internet and Energy System Integration (EI2)
-2024 IEEE 8th International Conference on Vision, Image and Signal Processing (ICVISP)
-2024 IEEE 9th International Conference for Convergence in Technology (I2CT)
 2024 IEEE Digital Education and MOOCS Conference (DEMOcon)
 2024 IEEE Frontiers in Education Conference (FIE)
 2024 IEEE Frontiers in Education Conference (FIE)
-2024 IEEE Global Engineering Education Conference (EDUCON)
 2024 IEEE Global Engineering Education Conference (EDUCON)
 2024 IEEE Global Engineering Education Conference (EDUCON)
 2024 IEEE International Conference on Artificial Intelligence Testing (AITest)
@@ -2995,7 +3475,6 @@ Thinking Skills and Creativity
 2024 IEEE SmartBlock4Africa
 2024 IEEE World Engineering Education Conference (EDUNINE)
 2024 IEEE World Engineering Education Conference (EDUNINE)
-2024 IEEE/ACIS 22nd International Conference on Software Engineering Research, Management and Applications (SERA)
 2024 IEEE/ACM 46th International Conference on Software Engineering (ICSE)
 2024 IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT)
 2024 International Automatic Control Conference (CACS)
@@ -3004,14 +3483,12 @@ Thinking Skills and Creativity
 2024 International Conference on Artificial Intelligence, Big Data, Computing and Data Communication Systems (icABCD)
 2024 International Conference on Artificial Intelligence, Deep Learning and Neural Networks (AIDLNN)
 2024 International Conference on Computational Intelligence for Green and Sustainable Technologies (ICCIGST)
-2024 International Conference on Computers, Information Processing and Advanced Education (CIPAE)
 2024 International Conference on Computing and Data Science (ICCDS)
 2024 International Conference on Decision Aid Sciences and Applications (DASA)
 2024 International Conference on Decision Aid Sciences and Applications (DASA)
 2024 International Conference on Decision Aid Sciences and Applications (DASA)
 2024 International Conference on Emerging Technologies and Innovation for Sustainability (EmergIN)
 2024 International Conference on Engineering \& Computing Technologies (ICECT)
-2024 International Conference on Graphics and Interaction (ICGI)
 2024 International Conference on ICT for Smart Society (ICISS)
 2024 International Conference on Informatics Education and Computer Technology Applications (IECA)
 2024 International Conference on Informatics, Multimedia, Cyber and Information System (ICIMCIS)
@@ -3021,7 +3498,6 @@ Thinking Skills and Creativity
 2024 International Conference on Sustainable Energy: Energy Transition and Net-Zero Climate Future (ICUE)
 2024 International Symposium on Educational Technology (ISET)
 2024 International Symposium on Networks, Computers and Communications (ISNCC)
-2024 Ninth International Conference on Informatics and Computing (ICIC)
 2024 Portland International Conference on Management of Engineering and Technology (PICMET)
 2024 Research, Invention, and Innovation Congress: Innovative Electricals and Electronics (RI2C)
 2024 Tenth International Conference on eDemocracy \& eGovernment (ICEDEG)
@@ -3041,8 +3517,20 @@ Thinking Skills and Creativity
 2025 2nd International Conference on Informatics Education and Computer Technology Applications (IECA)
 2025 37th Conference of Open Innovations Association (FRUCT)
 2025 3rd International Conference on Data Science and Information System (ICDSIS)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
 2025 5th International Conference on Innovative Research in Applied Science, Engineering and Technology (IRASET)
-2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
 2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
 2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
 2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
@@ -3071,48 +3559,57 @@ Thinking Skills and Creativity
 2025 IEEE International Conference on Engineering, Technology, and Innovation (ICE/ITMC)
 2025 International Conference on Computational, Communication and Information Technology (ICCCIT)
 2025 International Conference on Intelligent Computing and Control Systems (ICICCS)
-2025 International Conference on Pervasive Computational Technologies (ICPCT)
 2025 International Conference on Smart Computing, IoT and Machine Learning (SIML)
 2025 International Conference on Smart Learning Courses (SCME)
 2025 International Symposium on Educational Technology (ISET)
 2025 International Symposium on Educational Technology (ISET)
 2025 International Symposium on Educational Technology (ISET)
 2025 International Symposium on Educational Technology (ISET)
-2025 International Symposium on Educational Technology (ISET)
-2025 Joint Urban Remote Sensing Event (JURSE)
 2025 MIPRO 48th ICT and Electronics Convention
 2025 MIPRO 48th ICT and Electronics Convention
 2025 Seventh International Symposium on Computer, Consumer and Control (IS3C)
 2nd International Conference on Mechatronic Automation and Electrical Engineering (ICMAEE 2024)
 9th International Conference on New Energy and Future Energy Systems (NEFES 2024)
-CMES - Computer Modeling in Engineering and Sciences
-Communications in Transportation Research
+Acta Physico-Chimica Sinica
+Acta Psychologica
+Ain Shams Engineering Journal
+Annals of Tourism Research
+Applied Soft Computing
+Aquacultural Engineering
+Arthroscopy: The Journal of Arthroscopic \& Related Surgery
+Asia-Pacific Journal of Ophthalmology
+Asian Journal of Psychiatry
+Brazilian Journal of Otorhinolaryngology
+Chinese Journal of Aeronautics
+Clinical Simulation in Nursing
+Clinical Simulation in Nursing
+Clinical Simulation in Nursing
 Computer
+Computer Methods in Applied Mechanics and Engineering
 Computers \& Education
 Computers \& Education
-Computers \& Education
-Computers \& Education
-Computers \& Education
-Computers \& Education
-Computers \& Education
-Computers \& Education: X Reality
+Computers and Education Open
 Computers and Education: Artificial Intelligence
 Computers and Education: Artificial Intelligence
 Computers and Education: Artificial Intelligence
 Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers in Human Behavior
+Computers and Electronics in Agriculture
+Computers in Human Behavior Reports
+Computers in Human Behavior Reports
 Computers in Human Behavior: Artificial Humans
-Decision Analytics Journal
-Educational Research Review
-Encyclopedia of Libraries, Librarianship, and Information Science (First Edition)
-Encyclopedia of Libraries, Librarianship, and Information Science (First Edition)
-Entertainment Computing
+Current Opinion in Psychology
+Decision Support Systems
+Dentistry Review
+Dermatologic Clinics
+Development and Learning in Organizations: An International Journal
+Digestive and Liver Disease
+Displays
+Electronic Commerce Research and Applications
+Energy and AI
+Engineering Applications of Artificial Intelligence
+Epilepsy \& Behavior
+Foresight
+Gastroenterology
 Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
 Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
 Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
@@ -3160,6 +3657,7 @@ IEEE Engineering Management Review
 IEEE Engineering Management Review
 IEEE Engineering Management Review
 IEEE Geoscience and Remote Sensing Letters
+IEEE INFOCOM 2025 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)
 IEEE Industrial Electronics Magazine
 IEEE Intelligent Systems
 IEEE Internet Computing
@@ -3169,7 +3667,6 @@ IEEE Internet of Things Journal
 IEEE Internet of Things Journal
 IEEE Internet of Things Journal
 IEEE Internet of Things Magazine
-IEEE Journal of Biomedical and Health Informatics
 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 IEEE Journal on Selected Areas in Communications
@@ -3195,7 +3692,6 @@ IEEE Transactions on Learning Technologies
 IEEE Vehicular Technology Magazine
 IEEE Vehicular Technology Magazine
 IEEE Vehicular Technology Magazine
-IFAC-PapersOnLine
 IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium
 IT Professional
 IT Professional
@@ -3204,29 +3700,73 @@ IT Professional
 IT Professional
 IT Professional
 IT Professional
+Information Technology \& People
+Information and Learning Sciences
 Inside Cyber: How AI, 5G, IoT, and Quantum Computing Will Transform Privacy and Our Security
-International Journal of Child-Computer Interaction
-International Journal of Educational Research
-International Journal of Online Pedagogy and Course Design
+Integrative Medicine Research
+Integrative Medicine Research
+International Journal of Hospitality Management
+International Journal of Hospitality Management
+International Journal of Knowledge Management
+International Journal of Nursing Sciences
+International Journal of Nursing Studies
+International Journal of Oral and Maxillofacial Surgery
+International Journal of Oral and Maxillofacial Surgery
+JACC: Advances
+JMIR Medical Education
+Journal of Accounting Education
+Journal of Adolescent Health
+Journal of Building Engineering
+Journal of Business Research
+Journal of Cleaner Production
+Journal of Innovation \& Knowledge
+Journal of Intelligent Construction
+Journal of Manufacturing Processes
+Journal of Professional Nursing
+Journal of Vascular Surgery
 Journal of Web Engineering
-Learning and Instruction
+Journal of the Society for Cardiovascular Angiography \& Interventions
+Labour Economics
+Learning and Motivation
+Mayo Clinic Proceedings: Digital Health
+Modern Pathology
 New Horizons in Artificial Intelligence in Libraries
 Nurse Education Today
-Nurse Education Today
+Nurse Education in Practice
+Practical Radiation Oncology
+Procedia CIRP
+Procedia Computer Science
+Procedia Computer Science
+Review of International Business and Strategy
 Securing Microsoft Azure OpenAI
-Social Sciences \& Humanities Open
-Social Sciences \& Humanities Open
-Social Sciences \& Humanities Open
+Sensors and Actuators A: Physical
+Soil Advances
 SoutheastCon 2024
+Surgery
 System
-Technovation
+System
+Teaching and Learning in Nursing
+Teaching and Teacher Education
+Teaching and Teacher Education
+Technology in Society
+Technology in Society
 Telematics and Informatics Reports
+The Innovation
 The International Journal of Management Education
-The Internet and Higher Education
-Thinking Skills and Creativity
-Thinking Skills and Creativity
-Thinking Skills and Creativity
-Thinking Skills and Creativity
+The Journal of Academic Librarianship
+The Journal of Academic Librarianship
+The Journal of Academic Librarianship
+The Lancet Digital Health
+Thermal Science and Engineering Progress
+Tourism Management
+Tourism Management Perspectives
+Value in Health
+Value in Health
+Value in Health
+World Patent Information
+World Patent Information
+iScience
+iScience
 
 # ordenamiento por radixsort
 2023 12th Mediterranean Conference on Embedded Computing (MECO)
@@ -3251,7 +3791,6 @@ Thinking Skills and Creativity
 2024 16th International Conference on Intelligent Human-Machine Systems and Cybernetics (IHMSC)
 2024 16th International Conference on Intelligent Human-Machine Systems and Cybernetics (IHMSC)
 2024 17th International Symposium on Computational Intelligence and Design (ISCID)
-2024 17th International Symposium on Computational Intelligence and Design (ISCID)
 2024 1st International Conference on Advances in Computing, Communication and Networking (ICAC2N)
 2024 23rd International Symposium INFOTEH-JAHORINA (INFOTEH)
 2024 28th International Conference Information Visualisation (IV)
@@ -3260,7 +3799,6 @@ Thinking Skills and Creativity
 2024 2nd International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS)
 2024 2nd World Conference on Communication \& Computing (WCONF)
 2024 36th International Conference on Software Engineering Education and Training (CSEE\&T)
-2024 3rd International Conference on Artificial Intelligence and Software Engineering (ICAISE)
 2024 3rd International Conference on Creative Communication and Innovative Technology (ICCIT)
 2024 3rd International Conference on Image Processing and Media Computing (ICIPMC)
 2024 47th MIPRO ICT and Electronics Convention (MIPRO)
@@ -3276,7 +3814,6 @@ Thinking Skills and Creativity
 2024 5th International Conference on Artificial Intelligence and Computer Engineering (ICAICE)
 2024 5th International Conference on Industrial Engineering and Artificial Intelligence (IEAI)
 2024 5th International Conference on Intelligent Communication Technologies and Virtual Mobile Networks (ICICV)
-2024 5th International Conference on Intelligent Design (ICID)
 2024 5th International Conference on Intelligent Design (ICID)
 2024 7th International Conference on Internet Applications, Protocols, and Services (NETAPPS)
 2024 9th International Conference on Computer Science and Engineering (UBMK)
@@ -3298,12 +3835,9 @@ Thinking Skills and Creativity
 2024 IEEE 7th International Conference and Workshop Óbuda on Electrical and Power Engineering (CANDO-EPE)
 2024 IEEE 8th Conference on Energy Internet and Energy System Integration (EI2)
 2024 IEEE 8th Conference on Energy Internet and Energy System Integration (EI2)
-2024 IEEE 8th International Conference on Vision, Image and Signal Processing (ICVISP)
-2024 IEEE 9th International Conference for Convergence in Technology (I2CT)
 2024 IEEE Digital Education and MOOCS Conference (DEMOcon)
 2024 IEEE Frontiers in Education Conference (FIE)
 2024 IEEE Frontiers in Education Conference (FIE)
-2024 IEEE Global Engineering Education Conference (EDUCON)
 2024 IEEE Global Engineering Education Conference (EDUCON)
 2024 IEEE Global Engineering Education Conference (EDUCON)
 2024 IEEE International Conference on Artificial Intelligence Testing (AITest)
@@ -3318,7 +3852,6 @@ Thinking Skills and Creativity
 2024 IEEE SmartBlock4Africa
 2024 IEEE World Engineering Education Conference (EDUNINE)
 2024 IEEE World Engineering Education Conference (EDUNINE)
-2024 IEEE/ACIS 22nd International Conference on Software Engineering Research, Management and Applications (SERA)
 2024 IEEE/ACM 46th International Conference on Software Engineering (ICSE)
 2024 IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT)
 2024 International Automatic Control Conference (CACS)
@@ -3327,14 +3860,12 @@ Thinking Skills and Creativity
 2024 International Conference on Artificial Intelligence, Big Data, Computing and Data Communication Systems (icABCD)
 2024 International Conference on Artificial Intelligence, Deep Learning and Neural Networks (AIDLNN)
 2024 International Conference on Computational Intelligence for Green and Sustainable Technologies (ICCIGST)
-2024 International Conference on Computers, Information Processing and Advanced Education (CIPAE)
 2024 International Conference on Computing and Data Science (ICCDS)
 2024 International Conference on Decision Aid Sciences and Applications (DASA)
 2024 International Conference on Decision Aid Sciences and Applications (DASA)
 2024 International Conference on Decision Aid Sciences and Applications (DASA)
 2024 International Conference on Emerging Technologies and Innovation for Sustainability (EmergIN)
 2024 International Conference on Engineering \& Computing Technologies (ICECT)
-2024 International Conference on Graphics and Interaction (ICGI)
 2024 International Conference on ICT for Smart Society (ICISS)
 2024 International Conference on Informatics Education and Computer Technology Applications (IECA)
 2024 International Conference on Informatics, Multimedia, Cyber and Information System (ICIMCIS)
@@ -3344,7 +3875,6 @@ Thinking Skills and Creativity
 2024 International Conference on Sustainable Energy: Energy Transition and Net-Zero Climate Future (ICUE)
 2024 International Symposium on Educational Technology (ISET)
 2024 International Symposium on Networks, Computers and Communications (ISNCC)
-2024 Ninth International Conference on Informatics and Computing (ICIC)
 2024 Portland International Conference on Management of Engineering and Technology (PICMET)
 2024 Research, Invention, and Innovation Congress: Innovative Electricals and Electronics (RI2C)
 2024 Tenth International Conference on eDemocracy \& eGovernment (ICEDEG)
@@ -3364,8 +3894,20 @@ Thinking Skills and Creativity
 2025 2nd International Conference on Informatics Education and Computer Technology Applications (IECA)
 2025 37th Conference of Open Innovations Association (FRUCT)
 2025 3rd International Conference on Data Science and Information System (ICDSIS)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
+2025 5th International Conference on Artificial Intelligence and Education (ICAIE)
 2025 5th International Conference on Innovative Research in Applied Science, Engineering and Technology (IRASET)
-2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
 2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
 2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
 2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
@@ -3394,48 +3936,57 @@ Thinking Skills and Creativity
 2025 IEEE International Conference on Engineering, Technology, and Innovation (ICE/ITMC)
 2025 International Conference on Computational, Communication and Information Technology (ICCCIT)
 2025 International Conference on Intelligent Computing and Control Systems (ICICCS)
-2025 International Conference on Pervasive Computational Technologies (ICPCT)
 2025 International Conference on Smart Computing, IoT and Machine Learning (SIML)
 2025 International Conference on Smart Learning Courses (SCME)
 2025 International Symposium on Educational Technology (ISET)
 2025 International Symposium on Educational Technology (ISET)
 2025 International Symposium on Educational Technology (ISET)
 2025 International Symposium on Educational Technology (ISET)
-2025 International Symposium on Educational Technology (ISET)
-2025 Joint Urban Remote Sensing Event (JURSE)
 2025 MIPRO 48th ICT and Electronics Convention
 2025 MIPRO 48th ICT and Electronics Convention
 2025 Seventh International Symposium on Computer, Consumer and Control (IS3C)
 2nd International Conference on Mechatronic Automation and Electrical Engineering (ICMAEE 2024)
 9th International Conference on New Energy and Future Energy Systems (NEFES 2024)
-CMES - Computer Modeling in Engineering and Sciences
-Communications in Transportation Research
+Acta Physico-Chimica Sinica
+Acta Psychologica
+Ain Shams Engineering Journal
+Annals of Tourism Research
+Applied Soft Computing
+Aquacultural Engineering
+Arthroscopy: The Journal of Arthroscopic \& Related Surgery
+Asia-Pacific Journal of Ophthalmology
+Asian Journal of Psychiatry
+Brazilian Journal of Otorhinolaryngology
+Chinese Journal of Aeronautics
+Clinical Simulation in Nursing
+Clinical Simulation in Nursing
+Clinical Simulation in Nursing
 Computer
+Computer Methods in Applied Mechanics and Engineering
 Computers \& Education
 Computers \& Education
-Computers \& Education
-Computers \& Education
-Computers \& Education
-Computers \& Education
-Computers \& Education
-Computers \& Education: X Reality
+Computers and Education Open
 Computers and Education: Artificial Intelligence
 Computers and Education: Artificial Intelligence
 Computers and Education: Artificial Intelligence
 Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers and Education: Artificial Intelligence
-Computers in Human Behavior
+Computers and Electronics in Agriculture
+Computers in Human Behavior Reports
+Computers in Human Behavior Reports
 Computers in Human Behavior: Artificial Humans
-Decision Analytics Journal
-Educational Research Review
-Encyclopedia of Libraries, Librarianship, and Information Science (First Edition)
-Encyclopedia of Libraries, Librarianship, and Information Science (First Edition)
-Entertainment Computing
+Current Opinion in Psychology
+Decision Support Systems
+Dentistry Review
+Dermatologic Clinics
+Development and Learning in Organizations: An International Journal
+Digestive and Liver Disease
+Displays
+Electronic Commerce Research and Applications
+Energy and AI
+Engineering Applications of Artificial Intelligence
+Epilepsy \& Behavior
+Foresight
+Gastroenterology
 Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
 Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
 Generative AI in Practice: 100+ Amazing Ways Generative Artificial Intelligence is Changing Business and Society
@@ -3483,6 +4034,7 @@ IEEE Engineering Management Review
 IEEE Engineering Management Review
 IEEE Engineering Management Review
 IEEE Geoscience and Remote Sensing Letters
+IEEE INFOCOM 2025 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)
 IEEE Industrial Electronics Magazine
 IEEE Intelligent Systems
 IEEE Internet Computing
@@ -3492,7 +4044,6 @@ IEEE Internet of Things Journal
 IEEE Internet of Things Journal
 IEEE Internet of Things Journal
 IEEE Internet of Things Magazine
-IEEE Journal of Biomedical and Health Informatics
 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 IEEE Journal on Selected Areas in Communications
@@ -3518,7 +4069,6 @@ IEEE Transactions on Learning Technologies
 IEEE Vehicular Technology Magazine
 IEEE Vehicular Technology Magazine
 IEEE Vehicular Technology Magazine
-IFAC-PapersOnLine
 IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium
 IT Professional
 IT Professional
@@ -3527,27 +4077,71 @@ IT Professional
 IT Professional
 IT Professional
 IT Professional
+Information Technology \& People
+Information and Learning Sciences
 Inside Cyber: How AI, 5G, IoT, and Quantum Computing Will Transform Privacy and Our Security
-International Journal of Child-Computer Interaction
-International Journal of Educational Research
-International Journal of Online Pedagogy and Course Design
+Integrative Medicine Research
+Integrative Medicine Research
+International Journal of Hospitality Management
+International Journal of Hospitality Management
+International Journal of Knowledge Management
+International Journal of Nursing Sciences
+International Journal of Nursing Studies
+International Journal of Oral and Maxillofacial Surgery
+International Journal of Oral and Maxillofacial Surgery
+JACC: Advances
+JMIR Medical Education
+Journal of Accounting Education
+Journal of Adolescent Health
+Journal of Building Engineering
+Journal of Business Research
+Journal of Cleaner Production
+Journal of Innovation \& Knowledge
+Journal of Intelligent Construction
+Journal of Manufacturing Processes
+Journal of Professional Nursing
+Journal of Vascular Surgery
 Journal of Web Engineering
-Learning and Instruction
+Journal of the Society for Cardiovascular Angiography \& Interventions
+Labour Economics
+Learning and Motivation
+Mayo Clinic Proceedings: Digital Health
+Modern Pathology
 New Horizons in Artificial Intelligence in Libraries
 Nurse Education Today
-Nurse Education Today
+Nurse Education in Practice
+Practical Radiation Oncology
+Procedia CIRP
+Procedia Computer Science
+Procedia Computer Science
+Review of International Business and Strategy
 Securing Microsoft Azure OpenAI
-Social Sciences \& Humanities Open
-Social Sciences \& Humanities Open
-Social Sciences \& Humanities Open
+Sensors and Actuators A: Physical
+Soil Advances
 SoutheastCon 2024
+Surgery
 System
-Technovation
+System
+Teaching and Learning in Nursing
+Teaching and Teacher Education
+Teaching and Teacher Education
+Technology in Society
+Technology in Society
 Telematics and Informatics Reports
+The Innovation
 The International Journal of Management Education
-The Internet and Higher Education
-Thinking Skills and Creativity
-Thinking Skills and Creativity
-Thinking Skills and Creativity
-Thinking Skills and Creativity
+The Journal of Academic Librarianship
+The Journal of Academic Librarianship
+The Journal of Academic Librarianship
+The Lancet Digital Health
+Thermal Science and Engineering Progress
+Tourism Management
+Tourism Management Perspectives
+Value in Health
+Value in Health
+Value in Health
+World Patent Information
+World Patent Information
+iScience
+iScience
 
