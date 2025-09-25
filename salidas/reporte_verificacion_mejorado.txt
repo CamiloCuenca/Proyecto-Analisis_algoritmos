@@ -1,0 +1,16 @@
+=== REPORTE DETALLADO DE VERIFICACIÓN DE DUPLICADOS (MEJORADO) ===
+
+Total de entradas: 1657
+Entradas sin título: 0
+Entradas sin autor: 9
+Entradas sin año: 0
+
+=== DISTRIBUCIÓN POR TIPO DE ENTRADA ===
+ARTICLE: 425
+BOOK: 5
+INBOOK: 114
+INPROCEEDINGS: 1113
+
+=== ENTRADAS PROBLEMÁTICAS ===
+=== DUPLICADOS CRÍTICOS ===
+
